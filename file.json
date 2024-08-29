@@ -1,1 +1,2398 @@
-{"BaseModel.d1ffc9f8-22a9-4771-a3f6-1de3e51961c7": {"id": "d1ffc9f8-22a9-4771-a3f6-1de3e51961c7", "created_at": "2024-08-26T02:22:00.477471", "updated_at": "2024-08-26T02:22:00.477471", "__class__": "BaseModel"}, "BaseModel.9af76dfd-13f7-4027-83d1-0c052522348e": {"id": "3033f07e-d347-4961-8c90-226b8f08a062", "created_at": "2024-08-26T02:22:00.478577", "updated_at": "2024-08-26T02:22:00.478577", "__class__": "BaseModel"}, "BaseModel.71c5da55-b6b8-44fe-9b62-cb86345c0012": {"id": "71c5da55-b6b8-44fe-9b62-cb86345c0012", "created_at": "2024-08-26T02:22:00.477565", "updated_at": "2024-08-26T02:22:00.477565", "__class__": "BaseModel"}, "BaseModel.c67448eb-e375-41be-bcac-0bf161327fba": {"id": "094db73b-ac9e-4ca7-8fcd-a28a683fce41", "created_at": "2024-08-26T02:22:00.478636", "updated_at": "2024-08-26T02:22:00.478636", "__class__": "BaseModel"}, "BaseModel.2c283bb3-4b7b-448f-a7f9-75cc7476297f": {"id": "2c283bb3-4b7b-448f-a7f9-75cc7476297f", "created_at": "2024-08-26T02:22:00.477615", "updated_at": "2024-08-26T02:22:00.477615", "__class__": "BaseModel"}, "BaseModel.3120c15c-2c66-4af1-8728-c8df1491ce7e": {"id": "bff57261-a1ef-41b5-8eb3-6feca0db7735", "created_at": "2024-08-26T02:22:00.478684", "updated_at": "2024-08-26T02:22:00.478684", "__class__": "BaseModel"}, "BaseModel.8b2e500c-f4d0-4c98-8bd9-48a397764862": {"id": "8b2e500c-f4d0-4c98-8bd9-48a397764862", "created_at": "2024-08-26T02:22:00.477662", "updated_at": "2024-08-26T02:22:00.477662", "__class__": "BaseModel"}, "BaseModel.7291466a-b918-442f-bd20-1b4e9bee5db4": {"id": "7925e367-d214-47d4-9f70-a3070e034ba1", "created_at": "2024-08-26T02:22:00.478729", "updated_at": "2024-08-26T02:22:00.478729", "__class__": "BaseModel"}, "BaseModel.2e75ccd5-a8b3-481a-9eea-65ae565c1df3": {"id": "2e75ccd5-a8b3-481a-9eea-65ae565c1df3", "created_at": "2024-08-26T02:22:00.477707", "updated_at": "2024-08-26T02:22:00.477707", "__class__": "BaseModel"}, "BaseModel.07165851-9633-4878-9fdd-cff8af89c6fe": {"id": "7442fc6c-c5b1-4126-9e79-6d4122076305", "created_at": "2024-08-26T02:22:00.478774", "updated_at": "2024-08-26T02:22:00.478774", "__class__": "BaseModel"}, "BaseModel.b7ffdc52-18b1-460c-8fb0-080f4f66ffb1": {"id": "b7ffdc52-18b1-460c-8fb0-080f4f66ffb1", "created_at": "2024-08-26T02:22:00.477756", "updated_at": "2024-08-26T02:22:00.477756", "__class__": "BaseModel"}, "BaseModel.98a43149-5df4-4e4f-8e57-7f03ef02b964": {"id": "e06591d1-9d3b-49fa-915f-f5e9c7e8b458", "created_at": "2024-08-26T02:22:00.478825", "updated_at": "2024-08-26T02:22:00.478825", "__class__": "BaseModel"}, "BaseModel.b40ca630-5db1-4d27-b887-dabad1afb337": {"name": "California", "id": "b40ca630-5db1-4d27-b887-dabad1afb337", "created_at": "2024-08-26T02:22:00.477804", "updated_at": "2024-08-26T02:22:00.477804", "__class__": "BaseModel"}, "BaseModel.d8aef898-c980-41b4-9d4d-655feebfa943": {"name": "California", "id": "d1c69db9-ded0-473d-b457-b72833701e2c", "created_at": "2024-08-26T02:22:00.478884", "updated_at": "2024-08-26T02:22:00.478884", "__class__": "BaseModel"}, "BaseModel.82d93718-45ca-445d-8b6e-d95e2704a23b": {"name": "California", "id": "82d93718-45ca-445d-8b6e-d95e2704a23b", "created_at": "2024-08-26T02:22:00.477850", "updated_at": "2024-08-26T02:22:00.477850", "__class__": "BaseModel"}, "BaseModel.9259d951-c414-4651-815e-cffb5076c7c1": {"name": "California", "id": "36f75501-9aa9-4ae0-bca1-0f1c83f06cca", "created_at": "2024-08-26T02:22:00.478937", "updated_at": "2024-08-26T02:22:00.478937", "__class__": "BaseModel"}, "BaseModel.a64ac8c9-f3f3-4c5d-9738-42c78ff60330": {"id": "a64ac8c9-f3f3-4c5d-9738-42c78ff60330", "created_at": "2024-08-26T02:22:00.477894", "updated_at": "2024-08-26T02:22:00.477894", "__class__": "BaseModel"}, "BaseModel.6d201b99-3fd4-448a-892f-2bd180d091ed": {"id": "54f0cdf4-2356-4d35-9474-07730cc2e055", "created_at": "2024-08-26T02:22:00.478989", "updated_at": "2024-08-26T02:22:00.478989", "__class__": "BaseModel"}, "BaseModel.e0da9f00-d99b-429a-a1a8-1fb3bfe8c39c": {"id": "e0da9f00-d99b-429a-a1a8-1fb3bfe8c39c", "created_at": "2024-08-26T02:22:00.477938", "updated_at": "2024-08-26T02:22:00.477938", "__class__": "BaseModel"}, "BaseModel.b010adef-c273-45f5-b348-bab09d86b9f3": {"id": "d5d4587a-cab9-4aca-bc8e-b698ce8722c5", "created_at": "2024-08-26T02:22:00.479039", "updated_at": "2024-08-26T02:22:00.479039", "__class__": "BaseModel"}, "BaseModel.f990bb8f-bf1c-4cdf-a003-dc394ee1135e": {"id": "f990bb8f-bf1c-4cdf-a003-dc394ee1135e", "created_at": "2024-08-26T02:22:00.477981", "updated_at": "2024-08-26T02:22:00.477981", "__class__": "BaseModel"}, "BaseModel.d14f8535-dbf4-42b1-9e4e-a990c9c5a0d8": {"id": "838272ea-4b37-46a8-b65e-f0c851a117c9", "created_at": "2024-08-26T02:22:00.479091", "updated_at": "2024-08-26T02:22:00.479091", "__class__": "BaseModel"}, "BaseModel.067744b5-407e-48ec-8d57-5f34191ac7b9": {"name": "California", "id": "067744b5-407e-48ec-8d57-5f34191ac7b9", "created_at": "2024-08-26T02:22:00.478027", "updated_at": "2024-08-26T02:22:00.478027", "__class__": "BaseModel"}, "BaseModel.42f4ca5e-b382-4bd1-9133-605575b5372e": {"name": "California", "id": "d82e4850-6494-413d-922c-bba26f695b9e", "created_at": "2024-08-26T02:22:00.479143", "updated_at": "2024-08-26T02:22:00.479143", "__class__": "BaseModel"}, "State.c6f98bcc-b3ae-4212-b21b-2c0d7577451a": {"id": "c6f98bcc-b3ae-4212-b21b-2c0d7577451a", "created_at": "2024-08-26T02:22:00.478073", "updated_at": "2024-08-26T02:22:00.478073", "__class__": "State"}, "State.f48a41e4-03a9-4d5b-a66e-8a2f97ce372b": {"id": "b3df2b8d-a650-4ed9-bd68-8ceae470e2ba", "created_at": "2024-08-26T02:22:00.479192", "updated_at": "2024-08-26T02:22:00.479192", "__class__": "State"}, "BaseModel.3033f07e-d347-4961-8c90-226b8f08a062": {"id": "3033f07e-d347-4961-8c90-226b8f08a062", "created_at": "2024-08-26T02:22:00.478577", "updated_at": "2024-08-26T02:22:00.478577", "__class__": "BaseModel"}, "BaseModel.094db73b-ac9e-4ca7-8fcd-a28a683fce41": {"id": "094db73b-ac9e-4ca7-8fcd-a28a683fce41", "created_at": "2024-08-26T02:22:00.478636", "updated_at": "2024-08-26T02:22:00.478636", "__class__": "BaseModel"}, "BaseModel.bff57261-a1ef-41b5-8eb3-6feca0db7735": {"id": "bff57261-a1ef-41b5-8eb3-6feca0db7735", "created_at": "2024-08-26T02:22:00.478684", "updated_at": "2024-08-26T02:22:00.478684", "__class__": "BaseModel"}, "BaseModel.7925e367-d214-47d4-9f70-a3070e034ba1": {"id": "7925e367-d214-47d4-9f70-a3070e034ba1", "created_at": "2024-08-26T02:22:00.478729", "updated_at": "2024-08-26T02:22:00.478729", "__class__": "BaseModel"}, "BaseModel.7442fc6c-c5b1-4126-9e79-6d4122076305": {"id": "7442fc6c-c5b1-4126-9e79-6d4122076305", "created_at": "2024-08-26T02:22:00.478774", "updated_at": "2024-08-26T02:22:00.478774", "__class__": "BaseModel"}, "BaseModel.e06591d1-9d3b-49fa-915f-f5e9c7e8b458": {"id": "e06591d1-9d3b-49fa-915f-f5e9c7e8b458", "created_at": "2024-08-26T02:22:00.478825", "updated_at": "2024-08-26T02:22:00.478825", "__class__": "BaseModel"}, "BaseModel.d1c69db9-ded0-473d-b457-b72833701e2c": {"name": "California", "id": "d1c69db9-ded0-473d-b457-b72833701e2c", "created_at": "2024-08-26T02:22:00.478884", "updated_at": "2024-08-26T02:22:00.478884", "__class__": "BaseModel"}, "BaseModel.36f75501-9aa9-4ae0-bca1-0f1c83f06cca": {"name": "California", "id": "36f75501-9aa9-4ae0-bca1-0f1c83f06cca", "created_at": "2024-08-26T02:22:00.478937", "updated_at": "2024-08-26T02:22:00.478937", "__class__": "BaseModel"}, "BaseModel.54f0cdf4-2356-4d35-9474-07730cc2e055": {"id": "54f0cdf4-2356-4d35-9474-07730cc2e055", "created_at": "2024-08-26T02:22:00.478989", "updated_at": "2024-08-26T02:22:00.478989", "__class__": "BaseModel"}, "BaseModel.d5d4587a-cab9-4aca-bc8e-b698ce8722c5": {"id": "d5d4587a-cab9-4aca-bc8e-b698ce8722c5", "created_at": "2024-08-26T02:22:00.479039", "updated_at": "2024-08-26T02:22:00.479039", "__class__": "BaseModel"}, "BaseModel.838272ea-4b37-46a8-b65e-f0c851a117c9": {"id": "838272ea-4b37-46a8-b65e-f0c851a117c9", "created_at": "2024-08-26T02:22:00.479091", "updated_at": "2024-08-26T02:22:00.479091", "__class__": "BaseModel"}, "BaseModel.d82e4850-6494-413d-922c-bba26f695b9e": {"name": "California", "id": "d82e4850-6494-413d-922c-bba26f695b9e", "created_at": "2024-08-26T02:22:00.479143", "updated_at": "2024-08-26T02:22:00.479143", "__class__": "BaseModel"}, "State.b3df2b8d-a650-4ed9-bd68-8ceae470e2ba": {"id": "b3df2b8d-a650-4ed9-bd68-8ceae470e2ba", "created_at": "2024-08-26T02:22:00.479192", "updated_at": "2024-08-26T02:22:00.479192", "__class__": "State"}, "State.361fc2bc-8b62-4d59-9d98-2384fc3d93ab": {"id": "361fc2bc-8b62-4d59-9d98-2384fc3d93ab", "created_at": "2024-08-26T02:24:02.148920", "updated_at": "2024-08-26T02:24:02.148920", "__class__": "State"}, "State.485628a1-6901-463b-a8e3-082c0eb880cd": {"id": "485628a1-6901-463b-a8e3-082c0eb880cd", "created_at": "2024-08-26T02:24:08.446492", "updated_at": "2024-08-26T02:24:08.446492", "__class__": "State"}}
+{
+  "BaseModel.5d5aa6a2-61d2-4029-97ec-056073e7bb49": {
+    "id": "5d5aa6a2-61d2-4029-97ec-056073e7bb49",
+    "created_at": "2024-08-26T23:01:22.381356",
+    "updated_at": "2024-08-26T23:01:22.381356",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1cb44b12-50a7-49f8-9306-0b92eb927d32": {
+    "id": "1034883e-4319-48a4-956d-804991c440f3",
+    "created_at": "2024-08-26T23:01:22.475567",
+    "updated_at": "2024-08-26T23:01:22.475567",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.77d0a071-3f7a-48e9-94b3-9a18eadb002d": {
+    "id": "77d0a071-3f7a-48e9-94b3-9a18eadb002d",
+    "created_at": "2024-08-26T23:01:22.381429",
+    "updated_at": "2024-08-26T23:01:22.381429",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d1ffc9f8-22a9-4771-a3f6-1de3e51961c7": {
+    "id": "7d1c9182-b032-4ec5-b383-dcaef86c3cd8",
+    "created_at": "2024-08-26T23:01:22.475614",
+    "updated_at": "2024-08-26T23:01:22.475614",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7b3000ff-ac54-4ad5-957a-5aed8fdc687e": {
+    "id": "7b3000ff-ac54-4ad5-957a-5aed8fdc687e",
+    "created_at": "2024-08-26T23:01:22.381469",
+    "updated_at": "2024-08-26T23:01:22.381469",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.56924a44-aba4-43d1-952f-c24bdebcf8bf": {
+    "id": "0a7bd06c-e0c8-44c6-9cb6-6f9fea748a51",
+    "created_at": "2024-08-26T23:01:22.475652",
+    "updated_at": "2024-08-26T23:01:22.475652",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ba96340c-15f7-45c8-b81e-3c4fb4fd8864": {
+    "id": "ba96340c-15f7-45c8-b81e-3c4fb4fd8864",
+    "created_at": "2024-08-26T23:01:22.381506",
+    "updated_at": "2024-08-26T23:01:22.381506",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9af76dfd-13f7-4027-83d1-0c052522348e": {
+    "id": "ae223801-c7ef-4e0c-97c0-3536bd3476ba",
+    "created_at": "2024-08-26T23:01:22.475715",
+    "updated_at": "2024-08-26T23:01:22.475715",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.be92bcad-a958-46ef-8f10-666375445635": {
+    "id": "be92bcad-a958-46ef-8f10-666375445635",
+    "created_at": "2024-08-26T23:01:22.381541",
+    "updated_at": "2024-08-26T23:01:22.381541",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8ac96794-2be6-4e6c-8fe1-457b180e56fc": {
+    "id": "9f81be8d-e493-4050-a17a-3b4b15574cf2",
+    "created_at": "2024-08-26T23:01:22.475754",
+    "updated_at": "2024-08-26T23:01:22.475754",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b59121ed-4df4-45ba-a8b0-cb7277a5bf32": {
+    "id": "b59121ed-4df4-45ba-a8b0-cb7277a5bf32",
+    "created_at": "2024-08-26T23:01:22.381576",
+    "updated_at": "2024-08-26T23:01:22.381576",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.71c5da55-b6b8-44fe-9b62-cb86345c0012": {
+    "id": "5e6b809e-65ef-400e-8ee1-46c9be125073",
+    "created_at": "2024-08-26T23:01:22.475788",
+    "updated_at": "2024-08-26T23:01:22.475788",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.43587fce-c87e-4afb-b589-84f993f01138": {
+    "id": "43587fce-c87e-4afb-b589-84f993f01138",
+    "created_at": "2024-08-26T23:01:22.381610",
+    "updated_at": "2024-08-26T23:01:22.381610",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6c6217d1-7e5f-4fb4-aa91-212ce382c57d": {
+    "id": "a6530dfc-ae88-4b44-88c7-f1379c0780ec",
+    "created_at": "2024-08-26T23:01:22.475821",
+    "updated_at": "2024-08-26T23:01:22.475821",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9bf1209f-5d79-493e-bf78-bfe074ca711f": {
+    "id": "9bf1209f-5d79-493e-bf78-bfe074ca711f",
+    "created_at": "2024-08-26T23:01:22.381643",
+    "updated_at": "2024-08-26T23:01:22.381643",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c67448eb-e375-41be-bcac-0bf161327fba": {
+    "id": "e3420873-82ab-42a2-8526-6626b0e74ddc",
+    "created_at": "2024-08-26T23:01:22.475855",
+    "updated_at": "2024-08-26T23:01:22.475855",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0f44e9e4-c6b4-4096-98ba-b4da9afd586d": {
+    "id": "0f44e9e4-c6b4-4096-98ba-b4da9afd586d",
+    "created_at": "2024-08-26T23:01:22.381676",
+    "updated_at": "2024-08-26T23:01:22.381676",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1298d442-1dd2-4fb5-9643-184478f640b0": {
+    "id": "35da8434-e16b-4590-a3c6-4edb0cea1e00",
+    "created_at": "2024-08-26T23:01:22.475887",
+    "updated_at": "2024-08-26T23:01:22.475887",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c0286d1a-240f-498a-9bea-b1d1b4f9be26": {
+    "id": "c0286d1a-240f-498a-9bea-b1d1b4f9be26",
+    "created_at": "2024-08-26T23:01:22.381709",
+    "updated_at": "2024-08-26T23:01:22.381709",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.2c283bb3-4b7b-448f-a7f9-75cc7476297f": {
+    "id": "016953b1-8881-4a01-8fce-73a566693d3a",
+    "created_at": "2024-08-26T23:01:22.475921",
+    "updated_at": "2024-08-26T23:01:22.475921",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.2602f29f-52e6-4c28-ac26-f6519d4a6688": {
+    "id": "2602f29f-52e6-4c28-ac26-f6519d4a6688",
+    "created_at": "2024-08-26T23:01:22.381742",
+    "updated_at": "2024-08-26T23:01:22.381742",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.2dfeb15c-1f22-41b8-ae8a-da839c342763": {
+    "id": "c0b43525-86b3-47b3-857a-2264d75973c3",
+    "created_at": "2024-08-26T23:01:22.475954",
+    "updated_at": "2024-08-26T23:01:22.475954",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.4fc7a847-dc7a-4720-8088-3e26356504f8": {
+    "id": "4fc7a847-dc7a-4720-8088-3e26356504f8",
+    "created_at": "2024-08-26T23:01:22.381776",
+    "updated_at": "2024-08-26T23:01:22.381776",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3120c15c-2c66-4af1-8728-c8df1491ce7e": {
+    "id": "e883dfaa-9c9d-4c12-9ea0-b51cbc79eb26",
+    "created_at": "2024-08-26T23:01:22.475987",
+    "updated_at": "2024-08-26T23:01:22.475987",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1afc289a-d0d6-4aab-8c06-c4077188ecb2": {
+    "id": "1afc289a-d0d6-4aab-8c06-c4077188ecb2",
+    "created_at": "2024-08-26T23:01:22.381808",
+    "updated_at": "2024-08-26T23:01:22.381808",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a21b3c80-37d0-4b48-9d4f-7b93333ace7f": {
+    "id": "60e100f5-1923-4a82-948b-40a480d641aa",
+    "created_at": "2024-08-26T23:01:22.476024",
+    "updated_at": "2024-08-26T23:01:22.476024",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a2d021ab-1320-4209-a3d6-04e0b79fa66c": {
+    "id": "a2d021ab-1320-4209-a3d6-04e0b79fa66c",
+    "created_at": "2024-08-26T23:01:22.381841",
+    "updated_at": "2024-08-26T23:01:22.381841",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8b2e500c-f4d0-4c98-8bd9-48a397764862": {
+    "id": "9dcef2f5-009f-43f2-8f07-d54c1d385a6e",
+    "created_at": "2024-08-26T23:01:22.476057",
+    "updated_at": "2024-08-26T23:01:22.476057",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8f53cb89-6df5-40be-9f5c-e92bbb3b7393": {
+    "id": "8f53cb89-6df5-40be-9f5c-e92bbb3b7393",
+    "created_at": "2024-08-26T23:01:22.381873",
+    "updated_at": "2024-08-26T23:01:22.381873",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0c94a3ef-80e4-43c2-9dd6-f4747397d56c": {
+    "id": "dfd537e9-2fb0-4ae6-99b0-0a1efc3e4048",
+    "created_at": "2024-08-26T23:01:22.476090",
+    "updated_at": "2024-08-26T23:01:22.476090",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c1bcf1bb-bdb1-448c-be7c-42cacd3a98a0": {
+    "id": "c1bcf1bb-bdb1-448c-be7c-42cacd3a98a0",
+    "created_at": "2024-08-26T23:01:22.381906",
+    "updated_at": "2024-08-26T23:01:22.381906",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7291466a-b918-442f-bd20-1b4e9bee5db4": {
+    "id": "7aa099e4-5b52-4852-a10a-d32380de9993",
+    "created_at": "2024-08-26T23:01:22.476123",
+    "updated_at": "2024-08-26T23:01:22.476123",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6df6ec15-fce7-4334-8349-e6386691b977": {
+    "id": "6df6ec15-fce7-4334-8349-e6386691b977",
+    "created_at": "2024-08-26T23:01:22.381938",
+    "updated_at": "2024-08-26T23:01:22.381938",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b12e8392-02ec-4187-aaf2-68628462795d": {
+    "id": "fa4867ae-2d3e-4cc0-b3e2-10d51f60adab",
+    "created_at": "2024-08-26T23:01:22.476156",
+    "updated_at": "2024-08-26T23:01:22.476156",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.18cb66da-7931-485d-98b7-8b33da8e313d": {
+    "id": "18cb66da-7931-485d-98b7-8b33da8e313d",
+    "created_at": "2024-08-26T23:01:22.381971",
+    "updated_at": "2024-08-26T23:01:22.381971",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.2e75ccd5-a8b3-481a-9eea-65ae565c1df3": {
+    "id": "d24c3571-7e13-42b8-9cce-296ed7ecc612",
+    "created_at": "2024-08-26T23:01:22.476191",
+    "updated_at": "2024-08-26T23:01:22.476191",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9bd12aaa-0f2b-4697-a3cd-86232730cd12": {
+    "id": "9bd12aaa-0f2b-4697-a3cd-86232730cd12",
+    "created_at": "2024-08-26T23:01:22.382003",
+    "updated_at": "2024-08-26T23:01:22.382003",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.66ffc070-9f0f-481c-9e75-ee144d43f3f1": {
+    "id": "989620f1-61c1-4872-8de5-f9263d0d0f4c",
+    "created_at": "2024-08-26T23:01:22.476224",
+    "updated_at": "2024-08-26T23:01:22.476224",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1e583092-aca1-4179-b7f1-8ff38d649f26": {
+    "id": "1e583092-aca1-4179-b7f1-8ff38d649f26",
+    "created_at": "2024-08-26T23:01:22.382036",
+    "updated_at": "2024-08-26T23:01:22.382036",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.07165851-9633-4878-9fdd-cff8af89c6fe": {
+    "id": "53878921-ea6c-4205-8f91-f978fce3c8f7",
+    "created_at": "2024-08-26T23:01:22.476257",
+    "updated_at": "2024-08-26T23:01:22.476257",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e9328dd8-2515-42fc-929f-9e9acac0a7c3": {
+    "id": "e9328dd8-2515-42fc-929f-9e9acac0a7c3",
+    "created_at": "2024-08-26T23:01:22.382069",
+    "updated_at": "2024-08-26T23:01:22.382069",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3efe23fa-57c0-4934-8c9f-857e163ce250": {
+    "id": "1c9bdff2-30c9-4168-8ff8-684df1c91275",
+    "created_at": "2024-08-26T23:01:22.476295",
+    "updated_at": "2024-08-26T23:01:22.476295",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9e63699d-a13d-46f0-9e79-bf33630e3bbe": {
+    "id": "9e63699d-a13d-46f0-9e79-bf33630e3bbe",
+    "created_at": "2024-08-26T23:01:22.382102",
+    "updated_at": "2024-08-26T23:01:22.382102",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b7ffdc52-18b1-460c-8fb0-080f4f66ffb1": {
+    "id": "347d575c-13a1-4f2f-a9e2-6542e98be66f",
+    "created_at": "2024-08-26T23:01:22.476328",
+    "updated_at": "2024-08-26T23:01:22.476328",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1926a535-70be-42d1-9d3a-e7537886afc3": {
+    "id": "1926a535-70be-42d1-9d3a-e7537886afc3",
+    "created_at": "2024-08-26T23:01:22.382135",
+    "updated_at": "2024-08-26T23:01:22.382135",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.01fefea0-6007-4a75-bc57-551bbf508fa8": {
+    "id": "5cfc69a6-b425-4d61-9baf-b6c0ed13936b",
+    "created_at": "2024-08-26T23:01:22.476360",
+    "updated_at": "2024-08-26T23:01:22.476360",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.236573d0-dc86-44f0-b657-ea45c4ee3671": {
+    "id": "236573d0-dc86-44f0-b657-ea45c4ee3671",
+    "created_at": "2024-08-26T23:01:22.382168",
+    "updated_at": "2024-08-26T23:01:22.382168",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.98a43149-5df4-4e4f-8e57-7f03ef02b964": {
+    "id": "7a53d95f-dc05-4a77-9895-bd68e57805d9",
+    "created_at": "2024-08-26T23:01:22.476393",
+    "updated_at": "2024-08-26T23:01:22.476393",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7d1d32eb-b9ca-4610-8b82-a7a04f8107cd": {
+    "name": "California",
+    "id": "7d1d32eb-b9ca-4610-8b82-a7a04f8107cd",
+    "created_at": "2024-08-26T23:01:22.382201",
+    "updated_at": "2024-08-26T23:01:22.382201",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ae7c7e96-d74d-4905-8d96-9a3a5eea788c": {
+    "name": "California",
+    "id": "11e9e40b-8eec-47a0-be70-afc804477c5b",
+    "created_at": "2024-08-26T23:01:22.476427",
+    "updated_at": "2024-08-26T23:01:22.476427",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5c044a57-c128-4310-9eff-9f05bae15c0c": {
+    "name": "California",
+    "id": "5c044a57-c128-4310-9eff-9f05bae15c0c",
+    "created_at": "2024-08-26T23:01:22.382260",
+    "updated_at": "2024-08-26T23:01:22.382260",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b40ca630-5db1-4d27-b887-dabad1afb337": {
+    "name": "California",
+    "id": "fcab9164-01bd-465d-b0de-5d96003d8dcc",
+    "created_at": "2024-08-26T23:01:22.476460",
+    "updated_at": "2024-08-26T23:01:22.476460",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.83d7d69a-67d3-470c-85e1-ca9b8371a186": {
+    "name": "California",
+    "id": "83d7d69a-67d3-470c-85e1-ca9b8371a186",
+    "created_at": "2024-08-26T23:01:22.382305",
+    "updated_at": "2024-08-26T23:01:22.382305",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b53c9ffd-c4bc-4042-8032-9b0c563c59f5": {
+    "name": "California",
+    "id": "10b4ed67-dbd2-41ab-9635-4f4bb296b519",
+    "created_at": "2024-08-26T23:01:22.476492",
+    "updated_at": "2024-08-26T23:01:22.476492",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.94eb58ea-b212-4412-848d-aef60e37f41d": {
+    "name": "California",
+    "id": "94eb58ea-b212-4412-848d-aef60e37f41d",
+    "created_at": "2024-08-26T23:01:22.382345",
+    "updated_at": "2024-08-26T23:01:22.382345",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d8aef898-c980-41b4-9d4d-655feebfa943": {
+    "name": "California",
+    "id": "d58b2243-b49c-4394-abfc-3ac4ac391d64",
+    "created_at": "2024-08-26T23:01:22.476525",
+    "updated_at": "2024-08-26T23:01:22.476525",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.21589558-bf13-4c76-97a6-b208b88e2816": {
+    "name": "California",
+    "id": "21589558-bf13-4c76-97a6-b208b88e2816",
+    "created_at": "2024-08-26T23:01:22.382380",
+    "updated_at": "2024-08-26T23:01:22.382380",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c993ee5f-5a87-4ac7-aaa0-10b019d0e3e6": {
+    "name": "California",
+    "id": "6b18c127-987d-4d7d-a872-48684ee1d787",
+    "created_at": "2024-08-26T23:01:22.476558",
+    "updated_at": "2024-08-26T23:01:22.476558",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.00761404-0357-4742-b250-34fe637ee818": {
+    "name": "California",
+    "id": "00761404-0357-4742-b250-34fe637ee818",
+    "created_at": "2024-08-26T23:01:22.382413",
+    "updated_at": "2024-08-26T23:01:22.382413",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.82d93718-45ca-445d-8b6e-d95e2704a23b": {
+    "name": "California",
+    "id": "b3fcbbec-dd8f-43b7-938b-b8dbbd3af963",
+    "created_at": "2024-08-26T23:01:22.476591",
+    "updated_at": "2024-08-26T23:01:22.476591",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.409cfa0d-708f-4c62-8e39-0168cf8568e8": {
+    "name": "California",
+    "id": "409cfa0d-708f-4c62-8e39-0168cf8568e8",
+    "created_at": "2024-08-26T23:01:22.382448",
+    "updated_at": "2024-08-26T23:01:22.382448",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0aa28186-71da-4c21-8e4f-54a784dee669": {
+    "name": "California",
+    "id": "d11dfa93-127d-4703-a924-3ec3c9450452",
+    "created_at": "2024-08-26T23:01:22.476624",
+    "updated_at": "2024-08-26T23:01:22.476624",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0d8ca584-46c7-4db1-8504-3fca17f05555": {
+    "name": "California",
+    "id": "0d8ca584-46c7-4db1-8504-3fca17f05555",
+    "created_at": "2024-08-26T23:01:22.382481",
+    "updated_at": "2024-08-26T23:01:22.382481",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9259d951-c414-4651-815e-cffb5076c7c1": {
+    "name": "California",
+    "id": "48963e7d-d401-449b-b21f-51c2da45d92e",
+    "created_at": "2024-08-26T23:01:22.476657",
+    "updated_at": "2024-08-26T23:01:22.476657",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7c0a1106-4a33-4b50-8f0c-faa88324f302": {
+    "id": "7c0a1106-4a33-4b50-8f0c-faa88324f302",
+    "created_at": "2024-08-26T23:01:22.382524",
+    "updated_at": "2024-08-26T23:01:22.382524",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1d595c58-9814-4a52-94c7-8ff4a7412e08": {
+    "id": "5296bf8c-a6c6-49ec-a17d-01e48705fa1b",
+    "created_at": "2024-08-26T23:01:22.476689",
+    "updated_at": "2024-08-26T23:01:22.476689",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9048730d-ae16-490d-ad2d-9f7dd5743db5": {
+    "id": "9048730d-ae16-490d-ad2d-9f7dd5743db5",
+    "created_at": "2024-08-26T23:01:22.382564",
+    "updated_at": "2024-08-26T23:01:22.382564",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a64ac8c9-f3f3-4c5d-9738-42c78ff60330": {
+    "id": "bcbbaff7-3a6c-478a-a8f5-c538a75e1767",
+    "created_at": "2024-08-26T23:01:22.476721",
+    "updated_at": "2024-08-26T23:01:22.476721",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c2dbc849-54c8-446f-93ba-9a1655747496": {
+    "id": "c2dbc849-54c8-446f-93ba-9a1655747496",
+    "created_at": "2024-08-26T23:01:22.382597",
+    "updated_at": "2024-08-26T23:01:22.382597",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f4c1ed85-756d-4746-98dd-8e6a04b6b95f": {
+    "id": "788502d5-5a81-4bb9-91d2-203fc077d2e1",
+    "created_at": "2024-08-26T23:01:22.476754",
+    "updated_at": "2024-08-26T23:01:22.476754",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8a26f0c0-5042-42bd-a1b9-51b7869a171c": {
+    "id": "8a26f0c0-5042-42bd-a1b9-51b7869a171c",
+    "created_at": "2024-08-26T23:01:22.382629",
+    "updated_at": "2024-08-26T23:01:22.382629",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6d201b99-3fd4-448a-892f-2bd180d091ed": {
+    "id": "cda8b99f-e665-41b9-b7ef-384cffa7b2ea",
+    "created_at": "2024-08-26T23:01:22.476790",
+    "updated_at": "2024-08-26T23:01:22.476790",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.835bec27-3b33-43ef-97a3-1850dfdac05f": {
+    "id": "835bec27-3b33-43ef-97a3-1850dfdac05f",
+    "created_at": "2024-08-26T23:01:22.382662",
+    "updated_at": "2024-08-26T23:01:22.382662",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.edc2466f-ae8c-42ba-a531-5d7c651a59c6": {
+    "id": "4551454c-5f69-44f7-813a-e9599b596b12",
+    "created_at": "2024-08-26T23:01:22.476858",
+    "updated_at": "2024-08-26T23:01:22.476858",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.05537699-1165-433e-9a83-b7a95f2dcd34": {
+    "id": "05537699-1165-433e-9a83-b7a95f2dcd34",
+    "created_at": "2024-08-26T23:01:22.382694",
+    "updated_at": "2024-08-26T23:01:22.382694",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e0da9f00-d99b-429a-a1a8-1fb3bfe8c39c": {
+    "id": "dcd97d8c-c049-417a-80e6-e31aad903033",
+    "created_at": "2024-08-26T23:01:22.476892",
+    "updated_at": "2024-08-26T23:01:22.476892",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6f4a4891-e12e-4476-867c-d475f155bfbd": {
+    "id": "6f4a4891-e12e-4476-867c-d475f155bfbd",
+    "created_at": "2024-08-26T23:01:22.382731",
+    "updated_at": "2024-08-26T23:01:22.382731",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1559bf6f-e2ae-47bc-93de-5de01ffe20dc": {
+    "id": "50f70c5c-8dc6-4422-b2d4-7dc891d440ca",
+    "created_at": "2024-08-26T23:01:22.476928",
+    "updated_at": "2024-08-26T23:01:22.476928",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a50c543a-7b53-417e-987d-e9932679bf85": {
+    "id": "a50c543a-7b53-417e-987d-e9932679bf85",
+    "created_at": "2024-08-26T23:01:22.382764",
+    "updated_at": "2024-08-26T23:01:22.382764",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b010adef-c273-45f5-b348-bab09d86b9f3": {
+    "id": "2c976b01-281d-406e-93db-3bc17b782291",
+    "created_at": "2024-08-26T23:01:22.476961",
+    "updated_at": "2024-08-26T23:01:22.476961",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.af922ef8-e98c-4d68-91fd-ac69c2f01feb": {
+    "id": "af922ef8-e98c-4d68-91fd-ac69c2f01feb",
+    "created_at": "2024-08-26T23:01:22.382796",
+    "updated_at": "2024-08-26T23:01:22.382796",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.4af94768-e238-4124-bcc5-cfe5ca64f5fd": {
+    "id": "b086b05b-3eb3-4c24-852f-3bada532ad7f",
+    "created_at": "2024-08-26T23:01:22.476994",
+    "updated_at": "2024-08-26T23:01:22.476994",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d3f98f71-e1f5-4380-a59c-c0c4f2526bfa": {
+    "id": "d3f98f71-e1f5-4380-a59c-c0c4f2526bfa",
+    "created_at": "2024-08-26T23:01:22.382828",
+    "updated_at": "2024-08-26T23:01:22.382828",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f990bb8f-bf1c-4cdf-a003-dc394ee1135e": {
+    "id": "fb0b7e5f-b194-40ee-ba10-f4a7d5c5c127",
+    "created_at": "2024-08-26T23:01:22.477027",
+    "updated_at": "2024-08-26T23:01:22.477027",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e7d8db96-42d1-4c59-a75a-cf51fa51f6f5": {
+    "id": "e7d8db96-42d1-4c59-a75a-cf51fa51f6f5",
+    "created_at": "2024-08-26T23:01:22.382861",
+    "updated_at": "2024-08-26T23:01:22.382861",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.536d6d00-ebd8-48c4-b30a-bb71d314016f": {
+    "id": "0c6db4e7-5555-49dc-8283-7b55c3059d1c",
+    "created_at": "2024-08-26T23:01:22.477060",
+    "updated_at": "2024-08-26T23:01:22.477060",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.33459d90-6c96-435b-8ab5-4e61d7bdba45": {
+    "id": "33459d90-6c96-435b-8ab5-4e61d7bdba45",
+    "created_at": "2024-08-26T23:01:22.383003",
+    "updated_at": "2024-08-26T23:01:22.383003",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d14f8535-dbf4-42b1-9e4e-a990c9c5a0d8": {
+    "id": "0839f9a8-add4-48fd-b672-08051732b795",
+    "created_at": "2024-08-26T23:01:22.477093",
+    "updated_at": "2024-08-26T23:01:22.477093",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.797945df-e240-46b4-8c67-7be03cd68bdf": {
+    "name": "California",
+    "id": "797945df-e240-46b4-8c67-7be03cd68bdf",
+    "created_at": "2024-08-26T23:01:22.383048",
+    "updated_at": "2024-08-26T23:01:22.383048",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.42acbd1f-5a33-489a-91db-29c983a7ae69": {
+    "name": "California",
+    "id": "85df7932-18fd-4e0f-8f7f-3255c55917b7",
+    "created_at": "2024-08-26T23:01:22.477126",
+    "updated_at": "2024-08-26T23:01:22.477126",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.59345aed-8903-4b56-b8ef-80f825e45479": {
+    "name": "California",
+    "id": "59345aed-8903-4b56-b8ef-80f825e45479",
+    "created_at": "2024-08-26T23:01:22.383083",
+    "updated_at": "2024-08-26T23:01:22.383083",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.067744b5-407e-48ec-8d57-5f34191ac7b9": {
+    "name": "California",
+    "id": "06f42359-a87d-4288-92d8-cd7d71c2ed2b",
+    "created_at": "2024-08-26T23:01:22.477163",
+    "updated_at": "2024-08-26T23:01:22.477163",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.4429bf22-c121-47bd-b267-97e45689adac": {
+    "name": "California",
+    "id": "4429bf22-c121-47bd-b267-97e45689adac",
+    "created_at": "2024-08-26T23:01:22.383116",
+    "updated_at": "2024-08-26T23:01:22.383116",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b8f504b9-6a4c-41d8-bab0-0eceae6f7413": {
+    "name": "California",
+    "id": "924d03fb-d61c-407f-a62d-4d0ec4f733c9",
+    "created_at": "2024-08-26T23:01:22.477198",
+    "updated_at": "2024-08-26T23:01:22.477198",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.dbefb041-33f6-4371-adfb-df71603fc89a": {
+    "name": "California",
+    "id": "dbefb041-33f6-4371-adfb-df71603fc89a",
+    "created_at": "2024-08-26T23:01:22.383150",
+    "updated_at": "2024-08-26T23:01:22.383150",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.42f4ca5e-b382-4bd1-9133-605575b5372e": {
+    "name": "California",
+    "id": "8457ff60-4ab9-4509-80d3-bf794baf104f",
+    "created_at": "2024-08-26T23:01:22.477232",
+    "updated_at": "2024-08-26T23:01:22.477232",
+    "__class__": "BaseModel"
+  },
+  "State.84867f30-cbb7-421d-9717-831c195f44e7": {
+    "id": "84867f30-cbb7-421d-9717-831c195f44e7",
+    "created_at": "2024-08-26T23:01:22.383185",
+    "updated_at": "2024-08-26T23:01:22.383185",
+    "__class__": "State"
+  },
+  "State.0498ac03-7665-4e1c-8d20-0e04ad3e7336": {
+    "id": "4b721a21-c7d3-49af-9b4d-4d9c5afce65c",
+    "created_at": "2024-08-26T23:01:22.477265",
+    "updated_at": "2024-08-26T23:01:22.477265",
+    "__class__": "State"
+  },
+  "State.3d561d83-2530-40c8-a3c4-6e9b7ae85f65": {
+    "id": "3d561d83-2530-40c8-a3c4-6e9b7ae85f65",
+    "created_at": "2024-08-26T23:01:22.383219",
+    "updated_at": "2024-08-26T23:01:22.383219",
+    "__class__": "State"
+  },
+  "State.c6f98bcc-b3ae-4212-b21b-2c0d7577451a": {
+    "id": "f997b56e-523e-4161-b043-79fab5b71901",
+    "created_at": "2024-08-26T23:01:22.477299",
+    "updated_at": "2024-08-26T23:01:22.477299",
+    "__class__": "State"
+  },
+  "State.66831782-f3f7-4bd9-a359-0fb681065eb8": {
+    "id": "66831782-f3f7-4bd9-a359-0fb681065eb8",
+    "created_at": "2024-08-26T23:01:22.383253",
+    "updated_at": "2024-08-26T23:01:22.383253",
+    "__class__": "State"
+  },
+  "State.7572a49f-a860-40a6-8c76-8e96952d6627": {
+    "id": "08a95f06-3a41-4eb5-ab42-17175867e14b",
+    "created_at": "2024-08-26T23:01:22.477333",
+    "updated_at": "2024-08-26T23:01:22.477333",
+    "__class__": "State"
+  },
+  "State.24fa1ef5-4fe6-46d2-86a6-8d595b121953": {
+    "id": "24fa1ef5-4fe6-46d2-86a6-8d595b121953",
+    "created_at": "2024-08-26T23:01:22.383286",
+    "updated_at": "2024-08-26T23:01:22.383286",
+    "__class__": "State"
+  },
+  "State.f48a41e4-03a9-4d5b-a66e-8a2f97ce372b": {
+    "id": "27f64d05-e2ae-42a2-a081-779b8ff45ccc",
+    "created_at": "2024-08-26T23:01:22.477366",
+    "updated_at": "2024-08-26T23:01:22.477366",
+    "__class__": "State"
+  },
+  "BaseModel.4544a382-1919-48b0-ad53-1454aa52c7f5": {
+    "id": "4544a382-1919-48b0-ad53-1454aa52c7f5",
+    "created_at": "2024-08-26T23:01:22.383318",
+    "updated_at": "2024-08-26T23:01:22.383318",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6db7ff56-0173-4872-9335-32d9aaa6c03d": {
+    "id": "fd37e275-012b-4319-8eae-678ac715a429",
+    "created_at": "2024-08-26T23:01:22.477399",
+    "updated_at": "2024-08-26T23:01:22.477399",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3a355554-323d-4462-9126-e1a63a0a4431": {
+    "id": "3a355554-323d-4462-9126-e1a63a0a4431",
+    "created_at": "2024-08-26T23:01:22.383351",
+    "updated_at": "2024-08-26T23:01:22.383351",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3033f07e-d347-4961-8c90-226b8f08a062": {
+    "id": "60b3e861-731f-42f9-a5b6-1a95da07dec4",
+    "created_at": "2024-08-26T23:01:22.477432",
+    "updated_at": "2024-08-26T23:01:22.477432",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.68e29186-b2f2-4ca2-a46f-245110ea2fe5": {
+    "id": "68e29186-b2f2-4ca2-a46f-245110ea2fe5",
+    "created_at": "2024-08-26T23:01:22.383383",
+    "updated_at": "2024-08-26T23:01:22.383383",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0fea4430-d820-4419-8131-0abb8cd4b26f": {
+    "id": "141d5070-be2d-4787-9fa9-a183814466af",
+    "created_at": "2024-08-26T23:01:22.477464",
+    "updated_at": "2024-08-26T23:01:22.477464",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ba47173f-ec3f-4288-8af4-b7f279cd6a7d": {
+    "id": "ba47173f-ec3f-4288-8af4-b7f279cd6a7d",
+    "created_at": "2024-08-26T23:01:22.383416",
+    "updated_at": "2024-08-26T23:01:22.383416",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.094db73b-ac9e-4ca7-8fcd-a28a683fce41": {
+    "id": "bb98ec01-fec0-4d89-9bdf-5b35c981b07b",
+    "created_at": "2024-08-26T23:01:22.477497",
+    "updated_at": "2024-08-26T23:01:22.477497",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.207deebb-7a43-4fad-87b6-ca8deb557bc6": {
+    "id": "207deebb-7a43-4fad-87b6-ca8deb557bc6",
+    "created_at": "2024-08-26T23:01:22.383452",
+    "updated_at": "2024-08-26T23:01:22.383452",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.cac1b93f-5474-432c-b401-a77f4c094e89": {
+    "id": "8ca87993-72a6-4532-a169-be4fa85f3fb4",
+    "created_at": "2024-08-26T23:01:22.477529",
+    "updated_at": "2024-08-26T23:01:22.477529",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3f9bbde9-8bfd-4719-ab2c-ff9ab651b02c": {
+    "id": "3f9bbde9-8bfd-4719-ab2c-ff9ab651b02c",
+    "created_at": "2024-08-26T23:01:22.383485",
+    "updated_at": "2024-08-26T23:01:22.383485",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bff57261-a1ef-41b5-8eb3-6feca0db7735": {
+    "id": "852d0b4c-b143-4e9d-a297-af8f6205fbe6",
+    "created_at": "2024-08-26T23:01:22.477562",
+    "updated_at": "2024-08-26T23:01:22.477562",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e25fc305-47c8-4146-8c1e-9029a280db08": {
+    "id": "e25fc305-47c8-4146-8c1e-9029a280db08",
+    "created_at": "2024-08-26T23:01:22.383518",
+    "updated_at": "2024-08-26T23:01:22.383518",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.98763259-018f-4842-98c2-98a78a17bf98": {
+    "id": "e86562ff-e949-4f54-be87-b40aa3f3f891",
+    "created_at": "2024-08-26T23:01:22.477604",
+    "updated_at": "2024-08-26T23:01:22.477604",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bd26d0ce-041f-41a6-aa34-4fc6d0a54904": {
+    "id": "bd26d0ce-041f-41a6-aa34-4fc6d0a54904",
+    "created_at": "2024-08-26T23:01:22.383553",
+    "updated_at": "2024-08-26T23:01:22.383553",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7925e367-d214-47d4-9f70-a3070e034ba1": {
+    "id": "b7883f63-15d7-4a8d-aef0-f1ffbfff82c7",
+    "created_at": "2024-08-26T23:01:22.477639",
+    "updated_at": "2024-08-26T23:01:22.477639",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ce452f3d-39bd-47d7-915b-cad9d817fbdd": {
+    "id": "ce452f3d-39bd-47d7-915b-cad9d817fbdd",
+    "created_at": "2024-08-26T23:01:22.383587",
+    "updated_at": "2024-08-26T23:01:22.383587",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d7c6387d-1151-4d90-81eb-d05bc881b5d9": {
+    "id": "9af0b0be-e087-48a8-ada2-20e1f25eaf39",
+    "created_at": "2024-08-26T23:01:22.477672",
+    "updated_at": "2024-08-26T23:01:22.477672",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3604f9ce-f36a-436c-84dc-7dd9506e36f9": {
+    "id": "3604f9ce-f36a-436c-84dc-7dd9506e36f9",
+    "created_at": "2024-08-26T23:01:22.383636",
+    "updated_at": "2024-08-26T23:01:22.383636",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7442fc6c-c5b1-4126-9e79-6d4122076305": {
+    "id": "7d6dc5c9-7610-4173-896b-74ba5a62c115",
+    "created_at": "2024-08-26T23:01:22.477705",
+    "updated_at": "2024-08-26T23:01:22.477705",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.05ca0461-ee6d-412d-ac4a-264a63ec400f": {
+    "id": "05ca0461-ee6d-412d-ac4a-264a63ec400f",
+    "created_at": "2024-08-26T23:01:22.383676",
+    "updated_at": "2024-08-26T23:01:22.383676",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e29951a9-39bd-491a-83fa-4cb244df7d83": {
+    "id": "8ca8b126-9e61-4f59-b890-745ea62ebd36",
+    "created_at": "2024-08-26T23:01:22.477741",
+    "updated_at": "2024-08-26T23:01:22.477741",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b833887a-479d-45f1-addc-405ab3b6040d": {
+    "id": "b833887a-479d-45f1-addc-405ab3b6040d",
+    "created_at": "2024-08-26T23:01:22.383709",
+    "updated_at": "2024-08-26T23:01:22.383709",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e06591d1-9d3b-49fa-915f-f5e9c7e8b458": {
+    "id": "095d5166-7df2-4706-ab91-206b59709167",
+    "created_at": "2024-08-26T23:01:22.477774",
+    "updated_at": "2024-08-26T23:01:22.477774",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3819d036-fd5f-4518-a1f1-c138cb01e877": {
+    "name": "California",
+    "id": "3819d036-fd5f-4518-a1f1-c138cb01e877",
+    "created_at": "2024-08-26T23:01:22.383743",
+    "updated_at": "2024-08-26T23:01:22.383743",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.214dbe0c-fa40-453a-951e-f17da6d3a1f9": {
+    "name": "California",
+    "id": "5a7a74e1-9690-4e4a-b80a-92152f33090b",
+    "created_at": "2024-08-26T23:01:22.477807",
+    "updated_at": "2024-08-26T23:01:22.477807",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ea271941-0f0f-44b2-874c-ea8c6e9408d7": {
+    "name": "California",
+    "id": "ea271941-0f0f-44b2-874c-ea8c6e9408d7",
+    "created_at": "2024-08-26T23:01:22.383779",
+    "updated_at": "2024-08-26T23:01:22.383779",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d1c69db9-ded0-473d-b457-b72833701e2c": {
+    "name": "California",
+    "id": "45495743-9770-4b54-89e8-12190f4a8370",
+    "created_at": "2024-08-26T23:01:22.477840",
+    "updated_at": "2024-08-26T23:01:22.477840",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.2b4f0a5c-eca4-4c65-8645-6ba021a9c262": {
+    "name": "California",
+    "id": "2b4f0a5c-eca4-4c65-8645-6ba021a9c262",
+    "created_at": "2024-08-26T23:01:22.383813",
+    "updated_at": "2024-08-26T23:01:22.383813",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f90d469e-9d26-4bc6-b618-d6c4712a4661": {
+    "name": "California",
+    "id": "71d128bd-81a7-409e-8e49-f9b95f5e5a52",
+    "created_at": "2024-08-26T23:01:22.477872",
+    "updated_at": "2024-08-26T23:01:22.477872",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3065040c-cb5a-4684-81b9-8509b2734661": {
+    "name": "California",
+    "id": "3065040c-cb5a-4684-81b9-8509b2734661",
+    "created_at": "2024-08-26T23:01:22.383847",
+    "updated_at": "2024-08-26T23:01:22.383847",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.36f75501-9aa9-4ae0-bca1-0f1c83f06cca": {
+    "name": "California",
+    "id": "b0f86520-9a43-4fd1-b361-c55df6bff4e3",
+    "created_at": "2024-08-26T23:01:22.477905",
+    "updated_at": "2024-08-26T23:01:22.477905",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d047671d-f418-4ead-8c9b-ce75d972b1ea": {
+    "id": "d047671d-f418-4ead-8c9b-ce75d972b1ea",
+    "created_at": "2024-08-26T23:01:22.383880",
+    "updated_at": "2024-08-26T23:01:22.383880",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b153b7a3-a73a-4c9c-8602-40ef641ae500": {
+    "id": "27635bba-9e2d-4f07-bdd3-3d7959499a0b",
+    "created_at": "2024-08-26T23:01:22.477937",
+    "updated_at": "2024-08-26T23:01:22.477937",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6f20465d-4c3e-464c-a030-5ae78415bfb6": {
+    "id": "6f20465d-4c3e-464c-a030-5ae78415bfb6",
+    "created_at": "2024-08-26T23:01:22.383913",
+    "updated_at": "2024-08-26T23:01:22.383913",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.54f0cdf4-2356-4d35-9474-07730cc2e055": {
+    "id": "9bf75001-5d5e-4ee4-83b6-acdfc73c92b6",
+    "created_at": "2024-08-26T23:01:22.477970",
+    "updated_at": "2024-08-26T23:01:22.477970",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.db57f466-7dd4-4d4b-bc84-226f18b3e758": {
+    "id": "db57f466-7dd4-4d4b-bc84-226f18b3e758",
+    "created_at": "2024-08-26T23:01:22.383946",
+    "updated_at": "2024-08-26T23:01:22.383946",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bbbcffc0-8e6a-4b1b-aa8c-6fd024522f72": {
+    "id": "d80edd25-3d68-434b-8a94-01ed4776e813",
+    "created_at": "2024-08-26T23:01:22.478002",
+    "updated_at": "2024-08-26T23:01:22.478002",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.900e0466-523c-41a8-b24a-7ca20bbcb96e": {
+    "id": "900e0466-523c-41a8-b24a-7ca20bbcb96e",
+    "created_at": "2024-08-26T23:01:22.383978",
+    "updated_at": "2024-08-26T23:01:22.383978",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d5d4587a-cab9-4aca-bc8e-b698ce8722c5": {
+    "id": "0d408938-cee7-48ea-bd41-9a75a9c90568",
+    "created_at": "2024-08-26T23:01:22.478034",
+    "updated_at": "2024-08-26T23:01:22.478034",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.25d6ab66-8fe4-43f9-842c-ee4106147497": {
+    "id": "25d6ab66-8fe4-43f9-842c-ee4106147497",
+    "created_at": "2024-08-26T23:01:22.384010",
+    "updated_at": "2024-08-26T23:01:22.384010",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1edf6743-54ee-4a1d-876a-e67c7a14f842": {
+    "id": "0002aeef-0705-4706-8164-f5b082878a81",
+    "created_at": "2024-08-26T23:01:22.478067",
+    "updated_at": "2024-08-26T23:01:22.478067",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0bfe101f-b52f-417c-be6a-7b9ffa0312ad": {
+    "id": "0bfe101f-b52f-417c-be6a-7b9ffa0312ad",
+    "created_at": "2024-08-26T23:01:22.384043",
+    "updated_at": "2024-08-26T23:01:22.384043",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.838272ea-4b37-46a8-b65e-f0c851a117c9": {
+    "id": "0d976597-003a-4e02-9fad-cc9152a24c9a",
+    "created_at": "2024-08-26T23:01:22.478099",
+    "updated_at": "2024-08-26T23:01:22.478099",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.630d0305-eeb3-4cda-a8b9-fd7f207e6177": {
+    "name": "California",
+    "id": "630d0305-eeb3-4cda-a8b9-fd7f207e6177",
+    "created_at": "2024-08-26T23:01:22.384075",
+    "updated_at": "2024-08-26T23:01:22.384075",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ad8494ba-6c3c-4a4a-b9ba-d630d9a399de": {
+    "name": "California",
+    "id": "1eaefc6c-7b2e-4852-ae7b-008541d5af98",
+    "created_at": "2024-08-26T23:01:22.478131",
+    "updated_at": "2024-08-26T23:01:22.478131",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ef877b26-560d-4edc-a13f-a7de121137b1": {
+    "name": "California",
+    "id": "ef877b26-560d-4edc-a13f-a7de121137b1",
+    "created_at": "2024-08-26T23:01:22.384108",
+    "updated_at": "2024-08-26T23:01:22.384108",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d82e4850-6494-413d-922c-bba26f695b9e": {
+    "name": "California",
+    "id": "4151a541-1db8-4886-985c-6c8b536130e8",
+    "created_at": "2024-08-26T23:01:22.478164",
+    "updated_at": "2024-08-26T23:01:22.478164",
+    "__class__": "BaseModel"
+  },
+  "State.c8daafd2-e0bd-4226-ad81-f3e8dc3c60ac": {
+    "id": "c8daafd2-e0bd-4226-ad81-f3e8dc3c60ac",
+    "created_at": "2024-08-26T23:01:22.384141",
+    "updated_at": "2024-08-26T23:01:22.384141",
+    "__class__": "State"
+  },
+  "State.5ebc4c7e-e31f-4b32-82ba-b7b0bd74c4c1": {
+    "id": "4254a1d5-2331-4560-a081-6be097b0fb05",
+    "created_at": "2024-08-26T23:01:22.478196",
+    "updated_at": "2024-08-26T23:01:22.478196",
+    "__class__": "State"
+  },
+  "State.230a9c4e-690f-483f-a60f-b1f70c954ec1": {
+    "id": "230a9c4e-690f-483f-a60f-b1f70c954ec1",
+    "created_at": "2024-08-26T23:01:22.384174",
+    "updated_at": "2024-08-26T23:01:22.384174",
+    "__class__": "State"
+  },
+  "State.b3df2b8d-a650-4ed9-bd68-8ceae470e2ba": {
+    "id": "405dd78d-c49c-434c-b7c6-e29495e560f0",
+    "created_at": "2024-08-26T23:01:22.478228",
+    "updated_at": "2024-08-26T23:01:22.478228",
+    "__class__": "State"
+  },
+  "State.86db0626-1a57-4c75-ad7e-2bda1565c909": {
+    "id": "86db0626-1a57-4c75-ad7e-2bda1565c909",
+    "created_at": "2024-08-26T23:01:22.384207",
+    "updated_at": "2024-08-26T23:01:22.384207",
+    "__class__": "State"
+  },
+  "State.4e5e0e33-d4bb-4299-ab2c-b42649f7ac51": {
+    "id": "a314e062-f6ae-44d9-a0dd-4cd01d95047d",
+    "created_at": "2024-08-26T23:01:22.478260",
+    "updated_at": "2024-08-26T23:01:22.478260",
+    "__class__": "State"
+  },
+  "State.097d726f-da29-4f4c-81db-dbab0faca099": {
+    "id": "097d726f-da29-4f4c-81db-dbab0faca099",
+    "created_at": "2024-08-26T23:01:22.384241",
+    "updated_at": "2024-08-26T23:01:22.384241",
+    "__class__": "State"
+  },
+  "State.361fc2bc-8b62-4d59-9d98-2384fc3d93ab": {
+    "id": "ab7cb91b-3d3c-4692-815f-df12eeb84184",
+    "created_at": "2024-08-26T23:01:22.478292",
+    "updated_at": "2024-08-26T23:01:22.478292",
+    "__class__": "State"
+  },
+  "State.bfa4f422-15c4-4d28-be45-6f01720de3d0": {
+    "id": "bfa4f422-15c4-4d28-be45-6f01720de3d0",
+    "created_at": "2024-08-26T23:01:22.384278",
+    "updated_at": "2024-08-26T23:01:22.384278",
+    "__class__": "State"
+  },
+  "State.60cec822-d9a9-436d-848a-aa439b87f3cd": {
+    "id": "cfa06057-d9a1-4bf8-a826-d96aca887aa0",
+    "created_at": "2024-08-26T23:01:22.478328",
+    "updated_at": "2024-08-26T23:01:22.478328",
+    "__class__": "State"
+  },
+  "State.0360cfcc-9dae-4140-b08c-f7b5b13771b0": {
+    "id": "0360cfcc-9dae-4140-b08c-f7b5b13771b0",
+    "created_at": "2024-08-26T23:01:22.384314",
+    "updated_at": "2024-08-26T23:01:22.384314",
+    "__class__": "State"
+  },
+  "State.485628a1-6901-463b-a8e3-082c0eb880cd": {
+    "id": "f9c98573-bc52-4c94-8e68-12b86ef39cb0",
+    "created_at": "2024-08-26T23:01:22.478363",
+    "updated_at": "2024-08-26T23:01:22.478363",
+    "__class__": "State"
+  },
+  "BaseModel.21843043-e475-4724-aa2e-88f6136e3556": {
+    "id": "21843043-e475-4724-aa2e-88f6136e3556",
+    "created_at": "2024-08-26T23:01:22.384347",
+    "updated_at": "2024-08-26T23:01:22.384347",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.18b0d05f-ae33-4a07-b9ac-2e3b4495e71f": {
+    "id": "53f5e6a1-5b5e-418f-8c67-26ffb40f145c",
+    "created_at": "2024-08-26T23:01:22.478395",
+    "updated_at": "2024-08-26T23:01:22.478395",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c3e6bc93-d944-4039-89fe-d2d27a26edcd": {
+    "id": "c3e6bc93-d944-4039-89fe-d2d27a26edcd",
+    "created_at": "2024-08-26T23:01:22.384381",
+    "updated_at": "2024-08-26T23:01:22.384381",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.229bc55c-5d2b-4a5e-a952-6aae38941ecb": {
+    "id": "3534414c-7ce1-4d73-9626-4bf5e5c0282b",
+    "created_at": "2024-08-26T23:01:22.478427",
+    "updated_at": "2024-08-26T23:01:22.478427",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a8f05b71-5d5f-40b8-83c1-1aeb2ce39abd": {
+    "id": "a8f05b71-5d5f-40b8-83c1-1aeb2ce39abd",
+    "created_at": "2024-08-26T23:01:22.384414",
+    "updated_at": "2024-08-26T23:01:22.384414",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.92b73003-7042-4503-acd5-879865597dad": {
+    "id": "10948666-25d6-44ca-af23-a1577857c508",
+    "created_at": "2024-08-26T23:01:22.478459",
+    "updated_at": "2024-08-26T23:01:22.478459",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.703e1fbf-333c-4621-b5b7-e5c2626285ce": {
+    "id": "703e1fbf-333c-4621-b5b7-e5c2626285ce",
+    "created_at": "2024-08-26T23:01:22.384450",
+    "updated_at": "2024-08-26T23:01:22.384450",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.74012023-d478-4a8f-9e5f-e835eba81f0e": {
+    "id": "3dfe00c8-7ade-4b19-982d-a4a5a1206970",
+    "created_at": "2024-08-26T23:01:22.478491",
+    "updated_at": "2024-08-26T23:01:22.478491",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e8d5ef9d-e975-43c4-822e-5ceb45383a29": {
+    "id": "e8d5ef9d-e975-43c4-822e-5ceb45383a29",
+    "created_at": "2024-08-26T23:01:22.384486",
+    "updated_at": "2024-08-26T23:01:22.384486",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.39f363a5-5abd-4c11-bff4-1fb7e47ce125": {
+    "id": "122926ba-5122-4259-a7ba-a91b031ba76d",
+    "created_at": "2024-08-26T23:01:22.478523",
+    "updated_at": "2024-08-26T23:01:22.478523",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bfd9d126-0109-4cb6-b89d-56db24794b76": {
+    "id": "bfd9d126-0109-4cb6-b89d-56db24794b76",
+    "created_at": "2024-08-26T23:01:22.384519",
+    "updated_at": "2024-08-26T23:01:22.384519",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d617c055-b4b0-4b09-bda6-4270f30e80cd": {
+    "id": "c5f2babc-b23d-465c-818f-27d0313fcca7",
+    "created_at": "2024-08-26T23:01:22.478555",
+    "updated_at": "2024-08-26T23:01:22.478555",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5febcca2-3434-4365-adfb-46b3c2e9a029": {
+    "id": "5febcca2-3434-4365-adfb-46b3c2e9a029",
+    "created_at": "2024-08-26T23:01:22.384551",
+    "updated_at": "2024-08-26T23:01:22.384551",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5e72a9a1-59b5-4973-a4f2-056082c3144e": {
+    "id": "460b8783-9efb-4add-b459-20bc227cfc4a",
+    "created_at": "2024-08-26T23:01:22.478587",
+    "updated_at": "2024-08-26T23:01:22.478587",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a4134d73-077e-4923-875c-a51144e3ce14": {
+    "id": "a4134d73-077e-4923-875c-a51144e3ce14",
+    "created_at": "2024-08-26T23:01:22.384584",
+    "updated_at": "2024-08-26T23:01:22.384584",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1c8f309d-7472-42a8-8019-843fc7cfe40c": {
+    "id": "220479d9-e1ec-4976-849b-9a65c420aad6",
+    "created_at": "2024-08-26T23:01:22.478619",
+    "updated_at": "2024-08-26T23:01:22.478619",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f3d76c79-7f51-4e45-9b23-1ba18e19e202": {
+    "id": "f3d76c79-7f51-4e45-9b23-1ba18e19e202",
+    "created_at": "2024-08-26T23:01:22.384617",
+    "updated_at": "2024-08-26T23:01:22.384617",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.68410446-608e-457b-bd27-fb30fe683f7b": {
+    "id": "501357fb-ef89-4ec3-833c-7f0ec02d3186",
+    "created_at": "2024-08-26T23:01:22.478655",
+    "updated_at": "2024-08-26T23:01:22.478655",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.aea2424a-d142-40f1-be30-f7cbbc586bad": {
+    "id": "aea2424a-d142-40f1-be30-f7cbbc586bad",
+    "created_at": "2024-08-26T23:01:22.384650",
+    "updated_at": "2024-08-26T23:01:22.384650",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.cb5ec9c1-cfc2-457a-a072-fb9675906078": {
+    "id": "8a340b7b-4a0b-46a7-a67c-df8be4923df3",
+    "created_at": "2024-08-26T23:01:22.478687",
+    "updated_at": "2024-08-26T23:01:22.478687",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.78eea1bd-b062-47dc-adce-14977b61d682": {
+    "id": "78eea1bd-b062-47dc-adce-14977b61d682",
+    "created_at": "2024-08-26T23:01:22.384682",
+    "updated_at": "2024-08-26T23:01:22.384682",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.05e0644e-b7c7-4e9f-952a-8e2cba5100fc": {
+    "id": "411ac2e5-283d-4629-aa47-8afe772f2388",
+    "created_at": "2024-08-26T23:01:22.478719",
+    "updated_at": "2024-08-26T23:01:22.478719",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a5250396-74ad-4bc1-a1d3-d428d45b326a": {
+    "id": "a5250396-74ad-4bc1-a1d3-d428d45b326a",
+    "created_at": "2024-08-26T23:01:22.384714",
+    "updated_at": "2024-08-26T23:01:22.384714",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1fe024f7-fb99-4846-a35a-8dac21e2852a": {
+    "id": "1a90274a-55c9-41a9-8c86-385052cdae5d",
+    "created_at": "2024-08-26T23:01:22.478751",
+    "updated_at": "2024-08-26T23:01:22.478751",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ebd966d5-ca9d-4f17-bfc4-233cb34bfa0d": {
+    "name": "California",
+    "id": "ebd966d5-ca9d-4f17-bfc4-233cb34bfa0d",
+    "created_at": "2024-08-26T23:01:22.384747",
+    "updated_at": "2024-08-26T23:01:22.384747",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.cf8d1ec9-c998-4518-ab55-18f13d3a0f6b": {
+    "name": "California",
+    "id": "97083542-c689-43bc-8d58-d897e0bacd88",
+    "created_at": "2024-08-26T23:01:22.478784",
+    "updated_at": "2024-08-26T23:01:22.478784",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f1030c4e-a213-4c6a-ad31-0042443806b0": {
+    "name": "California",
+    "id": "f1030c4e-a213-4c6a-ad31-0042443806b0",
+    "created_at": "2024-08-26T23:01:22.384779",
+    "updated_at": "2024-08-26T23:01:22.384779",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ba22d2a4-c7fe-429e-8555-2dce4c103e40": {
+    "name": "California",
+    "id": "fd9a8302-7a19-4412-80db-fee65768f082",
+    "created_at": "2024-08-26T23:01:22.478817",
+    "updated_at": "2024-08-26T23:01:22.478817",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3a04e65f-04ae-4ce9-af94-656bdcec59ac": {
+    "name": "California",
+    "id": "3a04e65f-04ae-4ce9-af94-656bdcec59ac",
+    "created_at": "2024-08-26T23:01:22.473835",
+    "updated_at": "2024-08-26T23:01:22.473835",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8ec484ec-333a-46d6-a795-bc877ff2f65b": {
+    "name": "California",
+    "id": "68ea4316-c37a-4100-b1b8-fb677cc02733",
+    "created_at": "2024-08-26T23:01:22.478850",
+    "updated_at": "2024-08-26T23:01:22.478850",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a2896158-96ca-494c-8b10-d1f571111f92": {
+    "name": "California",
+    "id": "a2896158-96ca-494c-8b10-d1f571111f92",
+    "created_at": "2024-08-26T23:01:22.473899",
+    "updated_at": "2024-08-26T23:01:22.473899",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d185a30e-0e2d-44c2-937f-bff810f72f49": {
+    "name": "California",
+    "id": "639a53b2-364a-47ca-8f5a-83d569e1b4e1",
+    "created_at": "2024-08-26T23:01:22.478895",
+    "updated_at": "2024-08-26T23:01:22.478895",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9460fa07-9188-4723-a04d-4a65e0de961f": {
+    "id": "9460fa07-9188-4723-a04d-4a65e0de961f",
+    "created_at": "2024-08-26T23:01:22.473936",
+    "updated_at": "2024-08-26T23:01:22.473936",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b17a4274-0269-4de1-bcfb-c5c8cbfb9956": {
+    "id": "e5e7e510-463c-44c1-b11b-cb5d993af8ec",
+    "created_at": "2024-08-26T23:01:22.478930",
+    "updated_at": "2024-08-26T23:01:22.478930",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.abdb6216-4abb-4920-a1ca-2faa1d5bb24b": {
+    "id": "abdb6216-4abb-4920-a1ca-2faa1d5bb24b",
+    "created_at": "2024-08-26T23:01:22.473985",
+    "updated_at": "2024-08-26T23:01:22.473985",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5ea7729f-3ef2-4cee-a153-b89683ec53bb": {
+    "id": "ee2d61f4-2c5e-450a-a433-6bbc77e17b44",
+    "created_at": "2024-08-26T23:01:22.478962",
+    "updated_at": "2024-08-26T23:01:22.478962",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8e9902bd-a552-4e64-ac25-8aac8110a7d5": {
+    "id": "8e9902bd-a552-4e64-ac25-8aac8110a7d5",
+    "created_at": "2024-08-26T23:01:22.474041",
+    "updated_at": "2024-08-26T23:01:22.474041",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8192030a-d239-47c5-90d6-accf4c691803": {
+    "id": "80d4c6d0-cb0f-4cfe-9deb-09cccb4f05f2",
+    "created_at": "2024-08-26T23:01:22.478995",
+    "updated_at": "2024-08-26T23:01:22.478995",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8c04f2f4-9ac2-41dc-86b9-f081a5bcbc74": {
+    "id": "8c04f2f4-9ac2-41dc-86b9-f081a5bcbc74",
+    "created_at": "2024-08-26T23:01:22.474096",
+    "updated_at": "2024-08-26T23:01:22.474096",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.aa217c49-6b07-443e-896d-c87a35f795e3": {
+    "id": "b3ea75a3-17b5-4ff5-b1d0-24a3da790fb8",
+    "created_at": "2024-08-26T23:01:22.479030",
+    "updated_at": "2024-08-26T23:01:22.479030",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.078422e3-1f50-434a-a26f-b230fbc33549": {
+    "id": "078422e3-1f50-434a-a26f-b230fbc33549",
+    "created_at": "2024-08-26T23:01:22.474131",
+    "updated_at": "2024-08-26T23:01:22.474131",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ab7f02fa-1b51-4074-84f8-ae55c7ccef97": {
+    "id": "476f374d-1efd-4509-bbf0-dd9bb3845ac3",
+    "created_at": "2024-08-26T23:01:22.479063",
+    "updated_at": "2024-08-26T23:01:22.479063",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0815a8d4-285c-41c4-b12f-a4f51bc9b495": {
+    "id": "0815a8d4-285c-41c4-b12f-a4f51bc9b495",
+    "created_at": "2024-08-26T23:01:22.474165",
+    "updated_at": "2024-08-26T23:01:22.474165",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d21e5de1-36c4-4f74-906c-d3177b7b3bb3": {
+    "id": "f594bf89-0d5e-4267-ab79-e34981e7b83a",
+    "created_at": "2024-08-26T23:01:22.479098",
+    "updated_at": "2024-08-26T23:01:22.479098",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.df98c523-edb1-4847-ae97-e01c993df496": {
+    "name": "California",
+    "id": "df98c523-edb1-4847-ae97-e01c993df496",
+    "created_at": "2024-08-26T23:01:22.474202",
+    "updated_at": "2024-08-26T23:01:22.474202",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e0e3a3c9-6eb6-430f-ad77-b36eae4040bf": {
+    "name": "California",
+    "id": "7fddea01-7bfc-4543-8d3a-f5123a8bdd64",
+    "created_at": "2024-08-26T23:01:22.479134",
+    "updated_at": "2024-08-26T23:01:22.479134",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.179ea068-cb30-4ea2-a410-17acf2ebe158": {
+    "name": "California",
+    "id": "179ea068-cb30-4ea2-a410-17acf2ebe158",
+    "created_at": "2024-08-26T23:01:22.474237",
+    "updated_at": "2024-08-26T23:01:22.474237",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.49dc7787-0078-47ea-99a7-afe4daac0e04": {
+    "name": "California",
+    "id": "125ae54b-534f-4631-981a-46130c53754c",
+    "created_at": "2024-08-26T23:01:22.479167",
+    "updated_at": "2024-08-26T23:01:22.479167",
+    "__class__": "BaseModel"
+  },
+  "State.d52b8bc5-4fc1-4970-96cd-308e4ce5fe3e": {
+    "id": "d52b8bc5-4fc1-4970-96cd-308e4ce5fe3e",
+    "created_at": "2024-08-26T23:01:22.474272",
+    "updated_at": "2024-08-26T23:01:22.474272",
+    "__class__": "State"
+  },
+  "State.222e67f3-bdec-4aef-a846-9bca5ed3c845": {
+    "id": "8b2a4cbf-e320-41f6-b3ee-dfb1de5cce6c",
+    "created_at": "2024-08-26T23:01:22.479200",
+    "updated_at": "2024-08-26T23:01:22.479200",
+    "__class__": "State"
+  },
+  "State.d33199cd-e618-4fca-8230-52c1040298a5": {
+    "id": "d33199cd-e618-4fca-8230-52c1040298a5",
+    "created_at": "2024-08-26T23:01:22.474306",
+    "updated_at": "2024-08-26T23:01:22.474306",
+    "__class__": "State"
+  },
+  "State.37a6b5ae-2a5b-4ded-bea0-2cc39d650d30": {
+    "id": "bf9ba329-7e5c-45c6-8e4c-98cd4c2e77b8",
+    "created_at": "2024-08-26T23:01:22.479232",
+    "updated_at": "2024-08-26T23:01:22.479232",
+    "__class__": "State"
+  },
+  "BaseModel.bd62d384-af36-41f0-8b62-5d41cc5a5391": {
+    "id": "bd62d384-af36-41f0-8b62-5d41cc5a5391",
+    "created_at": "2024-08-26T23:01:22.474339",
+    "updated_at": "2024-08-26T23:01:22.474339",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.42f02dda-f67e-4387-8da5-ce573a49e9ab": {
+    "id": "590ba58b-b16c-46fc-ad6e-c61bfe6c088f",
+    "created_at": "2024-08-26T23:01:22.479269",
+    "updated_at": "2024-08-26T23:01:22.479269",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.502120d3-33c1-482b-b5c5-6dc324e8b7c9": {
+    "id": "502120d3-33c1-482b-b5c5-6dc324e8b7c9",
+    "created_at": "2024-08-26T23:01:22.474372",
+    "updated_at": "2024-08-26T23:01:22.474372",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9ca48188-2619-4e3e-8da4-a6b73e52c0d4": {
+    "id": "8c36de82-91dd-4032-8e25-9182fa222434",
+    "created_at": "2024-08-26T23:01:22.479301",
+    "updated_at": "2024-08-26T23:01:22.479301",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.53757eef-7227-40aa-8b46-504e75378d4b": {
+    "id": "53757eef-7227-40aa-8b46-504e75378d4b",
+    "created_at": "2024-08-26T23:01:22.474407",
+    "updated_at": "2024-08-26T23:01:22.474407",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.309180af-f16b-433b-a05b-5c3f77b8bd16": {
+    "id": "61dfeef2-3e09-44eb-982c-8d365c4cdd7b",
+    "created_at": "2024-08-26T23:01:22.479334",
+    "updated_at": "2024-08-26T23:01:22.479334",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.dfb8b935-b0d0-4e3d-a38c-88c7dccee6a8": {
+    "id": "dfb8b935-b0d0-4e3d-a38c-88c7dccee6a8",
+    "created_at": "2024-08-26T23:01:22.474440",
+    "updated_at": "2024-08-26T23:01:22.474440",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8cdc0e4a-1dc4-447a-9bf8-3dbe1c95ceea": {
+    "id": "ce849230-1ae0-41ab-8cf0-0dc3aeaaa1d0",
+    "created_at": "2024-08-26T23:01:22.479366",
+    "updated_at": "2024-08-26T23:01:22.479366",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.098a3c58-3590-4763-b193-50902e6054cf": {
+    "id": "098a3c58-3590-4763-b193-50902e6054cf",
+    "created_at": "2024-08-26T23:01:22.474473",
+    "updated_at": "2024-08-26T23:01:22.474473",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e3e5be31-3fb8-4095-ab84-3fb9d1e5c184": {
+    "id": "0fef2b78-f08d-41a8-ac9e-4510f8411bb6",
+    "created_at": "2024-08-26T23:01:22.479399",
+    "updated_at": "2024-08-26T23:01:22.479399",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.adb15a66-74de-4b6a-bafd-d0f1df7fbf50": {
+    "id": "adb15a66-74de-4b6a-bafd-d0f1df7fbf50",
+    "created_at": "2024-08-26T23:01:22.474505",
+    "updated_at": "2024-08-26T23:01:22.474505",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.eeabaad4-5d21-4963-985b-55ee256908ec": {
+    "id": "00a0b380-7721-4c5b-9b8d-6da03e188e46",
+    "created_at": "2024-08-26T23:01:22.479432",
+    "updated_at": "2024-08-26T23:01:22.479432",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.09ad2035-6e89-4b4c-895a-9bdb64f46fb0": {
+    "name": "California",
+    "id": "09ad2035-6e89-4b4c-895a-9bdb64f46fb0",
+    "created_at": "2024-08-26T23:01:22.474538",
+    "updated_at": "2024-08-26T23:01:22.474538",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b9835d1c-918a-493d-a588-effef5171eea": {
+    "name": "California",
+    "id": "6e067087-9ecb-4be9-89b6-71c4e6854548",
+    "created_at": "2024-08-26T23:01:22.479465",
+    "updated_at": "2024-08-26T23:01:22.479465",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.645a5dc8-b7c3-440e-8b1d-56ce1e7a325a": {
+    "name": "California",
+    "id": "645a5dc8-b7c3-440e-8b1d-56ce1e7a325a",
+    "created_at": "2024-08-26T23:01:22.474571",
+    "updated_at": "2024-08-26T23:01:22.474571",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d3c2fd8a-10a2-4376-a505-060e36005e2d": {
+    "name": "California",
+    "id": "442ac54d-01dd-449d-af44-e55a123337bb",
+    "created_at": "2024-08-26T23:01:22.479498",
+    "updated_at": "2024-08-26T23:01:22.479498",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7477ec57-dd7e-467d-9cf2-90aeecba9e52": {
+    "id": "7477ec57-dd7e-467d-9cf2-90aeecba9e52",
+    "created_at": "2024-08-26T23:01:22.474604",
+    "updated_at": "2024-08-26T23:01:22.474604",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.4b8b0522-b7df-40a7-8bc6-c414a41ca177": {
+    "id": "9e01a249-7a76-4ba1-af87-54a1ca57da96",
+    "created_at": "2024-08-26T23:01:22.479530",
+    "updated_at": "2024-08-26T23:01:22.479530",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.085bb4da-4674-4e78-98db-5c3bd19d574c": {
+    "id": "085bb4da-4674-4e78-98db-5c3bd19d574c",
+    "created_at": "2024-08-26T23:01:22.474637",
+    "updated_at": "2024-08-26T23:01:22.474637",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.443a6f7b-2fc6-4c8f-8d7c-b7bfe0ed37cc": {
+    "id": "0523c905-33c5-421b-867c-9d3f9a0ee920",
+    "created_at": "2024-08-26T23:01:22.479562",
+    "updated_at": "2024-08-26T23:01:22.479562",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e7650d93-5d04-4382-a4c4-df1150e8ab4d": {
+    "id": "e7650d93-5d04-4382-a4c4-df1150e8ab4d",
+    "created_at": "2024-08-26T23:01:22.474670",
+    "updated_at": "2024-08-26T23:01:22.474670",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.cc92a53a-d360-4354-a91a-70bca0a31256": {
+    "id": "da5baaac-9567-41f9-94bb-574596836946",
+    "created_at": "2024-08-26T23:01:22.479594",
+    "updated_at": "2024-08-26T23:01:22.479594",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.522e77d0-0158-4b59-a7df-bbbb69249f5f": {
+    "name": "California",
+    "id": "522e77d0-0158-4b59-a7df-bbbb69249f5f",
+    "created_at": "2024-08-26T23:01:22.474702",
+    "updated_at": "2024-08-26T23:01:22.474702",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8c341659-d76f-439c-924b-d9692017c31e": {
+    "name": "California",
+    "id": "11f2e5b8-abe9-4593-9f7d-30dafd2d747f",
+    "created_at": "2024-08-26T23:01:22.479627",
+    "updated_at": "2024-08-26T23:01:22.479627",
+    "__class__": "BaseModel"
+  },
+  "State.2591153b-453f-4bf0-9afa-2d6ae65f6a56": {
+    "id": "2591153b-453f-4bf0-9afa-2d6ae65f6a56",
+    "created_at": "2024-08-26T23:01:22.474735",
+    "updated_at": "2024-08-26T23:01:22.474735",
+    "__class__": "State"
+  },
+  "State.b36ec061-ac6d-4c24-b382-144dbd88d695": {
+    "id": "a9c218f1-51f5-4301-bae8-9bfe4a58c594",
+    "created_at": "2024-08-26T23:01:22.479659",
+    "updated_at": "2024-08-26T23:01:22.479659",
+    "__class__": "State"
+  },
+  "State.caca007d-ab7b-4684-b27a-56cd31c8632f": {
+    "id": "caca007d-ab7b-4684-b27a-56cd31c8632f",
+    "created_at": "2024-08-26T23:01:22.474767",
+    "updated_at": "2024-08-26T23:01:22.474767",
+    "__class__": "State"
+  },
+  "State.c39a02b3-257b-4fb1-929f-914e164caed1": {
+    "id": "0759d14c-4822-42e8-b98a-ee61bec4c8b6",
+    "created_at": "2024-08-26T23:01:22.479693",
+    "updated_at": "2024-08-26T23:01:22.479693",
+    "__class__": "State"
+  },
+  "State.b68327de-1884-4f47-9ecc-26750f8742ec": {
+    "id": "b68327de-1884-4f47-9ecc-26750f8742ec",
+    "created_at": "2024-08-26T23:01:22.474803",
+    "updated_at": "2024-08-26T23:01:22.474803",
+    "__class__": "State"
+  },
+  "State.068a63c8-18fb-4ccb-8a88-06144f5ec3e6": {
+    "id": "6574a58f-feda-4b1f-8b59-7a1c225c5634",
+    "created_at": "2024-08-26T23:01:22.479728",
+    "updated_at": "2024-08-26T23:01:22.479728",
+    "__class__": "State"
+  },
+  "State.62ec94ac-33d1-4ccc-b2b6-6154ef003d71": {
+    "name": "California",
+    "id": "62ec94ac-33d1-4ccc-b2b6-6154ef003d71",
+    "created_at": "2024-08-26T23:01:22.474837",
+    "updated_at": "2024-08-26T23:01:22.474837",
+    "__class__": "State"
+  },
+  "State.20991a73-c557-4074-aa6c-c499ceba65b8": {
+    "name": "California",
+    "id": "c3f0ac65-690d-4eaa-9dcc-a9dd23bc7527",
+    "created_at": "2024-08-26T23:01:22.479761",
+    "updated_at": "2024-08-26T23:01:22.479761",
+    "__class__": "State"
+  },
+  "State.feb8ec20-917c-48e7-adab-6bc5a644d2fa": {
+    "name": "Arizona",
+    "id": "feb8ec20-917c-48e7-adab-6bc5a644d2fa",
+    "created_at": "2024-08-26T23:01:22.474870",
+    "updated_at": "2024-08-26T23:01:22.474870",
+    "__class__": "State"
+  },
+  "State.97715be8-1147-4f7c-97dc-265c3b3e5aba": {
+    "name": "Arizona",
+    "id": "c1a34e0d-47bd-4d60-9c88-76ce59ff7083",
+    "created_at": "2024-08-26T23:01:22.479793",
+    "updated_at": "2024-08-26T23:01:22.479793",
+    "__class__": "State"
+  },
+  "Place.b7b83441-b30d-4327-b24e-5db5a40dc842": {
+    "city_id": "0001",
+    "user_id": "0001",
+    "name": "My_little_house",
+    "number_rooms": 4,
+    "number_bathrooms": 2,
+    "max_guest": 10,
+    "price_by_night": 300,
+    "latitude": 37.773972,
+    "longitude": -122.431297,
+    "id": "b7b83441-b30d-4327-b24e-5db5a40dc842",
+    "created_at": "2024-08-26T23:01:22.474927",
+    "updated_at": "2024-08-26T23:01:22.474927",
+    "__class__": "Place"
+  },
+  "Place.4976647e-734b-48fa-b53b-ef8007b33bd8": {
+    "city_id": "0001",
+    "user_id": "0001",
+    "name": "My_little_house",
+    "number_rooms": 4,
+    "number_bathrooms": 2,
+    "max_guest": 10,
+    "price_by_night": 300,
+    "latitude": 37.773972,
+    "longitude": -122.431297,
+    "id": "8be24349-77bb-48d2-8472-33b659f3f8b9",
+    "created_at": "2024-08-26T23:01:22.479833",
+    "updated_at": "2024-08-26T23:01:22.479833",
+    "__class__": "Place"
+  },
+  "BaseModel.1034883e-4319-48a4-956d-804991c440f3": {
+    "id": "1034883e-4319-48a4-956d-804991c440f3",
+    "created_at": "2024-08-26T23:01:22.475567",
+    "updated_at": "2024-08-26T23:01:22.475567",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7d1c9182-b032-4ec5-b383-dcaef86c3cd8": {
+    "id": "7d1c9182-b032-4ec5-b383-dcaef86c3cd8",
+    "created_at": "2024-08-26T23:01:22.475614",
+    "updated_at": "2024-08-26T23:01:22.475614",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0a7bd06c-e0c8-44c6-9cb6-6f9fea748a51": {
+    "id": "0a7bd06c-e0c8-44c6-9cb6-6f9fea748a51",
+    "created_at": "2024-08-26T23:01:22.475652",
+    "updated_at": "2024-08-26T23:01:22.475652",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ae223801-c7ef-4e0c-97c0-3536bd3476ba": {
+    "id": "ae223801-c7ef-4e0c-97c0-3536bd3476ba",
+    "created_at": "2024-08-26T23:01:22.475715",
+    "updated_at": "2024-08-26T23:01:22.475715",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9f81be8d-e493-4050-a17a-3b4b15574cf2": {
+    "id": "9f81be8d-e493-4050-a17a-3b4b15574cf2",
+    "created_at": "2024-08-26T23:01:22.475754",
+    "updated_at": "2024-08-26T23:01:22.475754",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5e6b809e-65ef-400e-8ee1-46c9be125073": {
+    "id": "5e6b809e-65ef-400e-8ee1-46c9be125073",
+    "created_at": "2024-08-26T23:01:22.475788",
+    "updated_at": "2024-08-26T23:01:22.475788",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.a6530dfc-ae88-4b44-88c7-f1379c0780ec": {
+    "id": "a6530dfc-ae88-4b44-88c7-f1379c0780ec",
+    "created_at": "2024-08-26T23:01:22.475821",
+    "updated_at": "2024-08-26T23:01:22.475821",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e3420873-82ab-42a2-8526-6626b0e74ddc": {
+    "id": "e3420873-82ab-42a2-8526-6626b0e74ddc",
+    "created_at": "2024-08-26T23:01:22.475855",
+    "updated_at": "2024-08-26T23:01:22.475855",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.35da8434-e16b-4590-a3c6-4edb0cea1e00": {
+    "id": "35da8434-e16b-4590-a3c6-4edb0cea1e00",
+    "created_at": "2024-08-26T23:01:22.475887",
+    "updated_at": "2024-08-26T23:01:22.475887",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.016953b1-8881-4a01-8fce-73a566693d3a": {
+    "id": "016953b1-8881-4a01-8fce-73a566693d3a",
+    "created_at": "2024-08-26T23:01:22.475921",
+    "updated_at": "2024-08-26T23:01:22.475921",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c0b43525-86b3-47b3-857a-2264d75973c3": {
+    "id": "c0b43525-86b3-47b3-857a-2264d75973c3",
+    "created_at": "2024-08-26T23:01:22.475954",
+    "updated_at": "2024-08-26T23:01:22.475954",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e883dfaa-9c9d-4c12-9ea0-b51cbc79eb26": {
+    "id": "e883dfaa-9c9d-4c12-9ea0-b51cbc79eb26",
+    "created_at": "2024-08-26T23:01:22.475987",
+    "updated_at": "2024-08-26T23:01:22.475987",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.60e100f5-1923-4a82-948b-40a480d641aa": {
+    "id": "60e100f5-1923-4a82-948b-40a480d641aa",
+    "created_at": "2024-08-26T23:01:22.476024",
+    "updated_at": "2024-08-26T23:01:22.476024",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9dcef2f5-009f-43f2-8f07-d54c1d385a6e": {
+    "id": "9dcef2f5-009f-43f2-8f07-d54c1d385a6e",
+    "created_at": "2024-08-26T23:01:22.476057",
+    "updated_at": "2024-08-26T23:01:22.476057",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.dfd537e9-2fb0-4ae6-99b0-0a1efc3e4048": {
+    "id": "dfd537e9-2fb0-4ae6-99b0-0a1efc3e4048",
+    "created_at": "2024-08-26T23:01:22.476090",
+    "updated_at": "2024-08-26T23:01:22.476090",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7aa099e4-5b52-4852-a10a-d32380de9993": {
+    "id": "7aa099e4-5b52-4852-a10a-d32380de9993",
+    "created_at": "2024-08-26T23:01:22.476123",
+    "updated_at": "2024-08-26T23:01:22.476123",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.fa4867ae-2d3e-4cc0-b3e2-10d51f60adab": {
+    "id": "fa4867ae-2d3e-4cc0-b3e2-10d51f60adab",
+    "created_at": "2024-08-26T23:01:22.476156",
+    "updated_at": "2024-08-26T23:01:22.476156",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d24c3571-7e13-42b8-9cce-296ed7ecc612": {
+    "id": "d24c3571-7e13-42b8-9cce-296ed7ecc612",
+    "created_at": "2024-08-26T23:01:22.476191",
+    "updated_at": "2024-08-26T23:01:22.476191",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.989620f1-61c1-4872-8de5-f9263d0d0f4c": {
+    "id": "989620f1-61c1-4872-8de5-f9263d0d0f4c",
+    "created_at": "2024-08-26T23:01:22.476224",
+    "updated_at": "2024-08-26T23:01:22.476224",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.53878921-ea6c-4205-8f91-f978fce3c8f7": {
+    "id": "53878921-ea6c-4205-8f91-f978fce3c8f7",
+    "created_at": "2024-08-26T23:01:22.476257",
+    "updated_at": "2024-08-26T23:01:22.476257",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1c9bdff2-30c9-4168-8ff8-684df1c91275": {
+    "id": "1c9bdff2-30c9-4168-8ff8-684df1c91275",
+    "created_at": "2024-08-26T23:01:22.476295",
+    "updated_at": "2024-08-26T23:01:22.476295",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.347d575c-13a1-4f2f-a9e2-6542e98be66f": {
+    "id": "347d575c-13a1-4f2f-a9e2-6542e98be66f",
+    "created_at": "2024-08-26T23:01:22.476328",
+    "updated_at": "2024-08-26T23:01:22.476328",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5cfc69a6-b425-4d61-9baf-b6c0ed13936b": {
+    "id": "5cfc69a6-b425-4d61-9baf-b6c0ed13936b",
+    "created_at": "2024-08-26T23:01:22.476360",
+    "updated_at": "2024-08-26T23:01:22.476360",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7a53d95f-dc05-4a77-9895-bd68e57805d9": {
+    "id": "7a53d95f-dc05-4a77-9895-bd68e57805d9",
+    "created_at": "2024-08-26T23:01:22.476393",
+    "updated_at": "2024-08-26T23:01:22.476393",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.11e9e40b-8eec-47a0-be70-afc804477c5b": {
+    "name": "California",
+    "id": "11e9e40b-8eec-47a0-be70-afc804477c5b",
+    "created_at": "2024-08-26T23:01:22.476427",
+    "updated_at": "2024-08-26T23:01:22.476427",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.fcab9164-01bd-465d-b0de-5d96003d8dcc": {
+    "name": "California",
+    "id": "fcab9164-01bd-465d-b0de-5d96003d8dcc",
+    "created_at": "2024-08-26T23:01:22.476460",
+    "updated_at": "2024-08-26T23:01:22.476460",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.10b4ed67-dbd2-41ab-9635-4f4bb296b519": {
+    "name": "California",
+    "id": "10b4ed67-dbd2-41ab-9635-4f4bb296b519",
+    "created_at": "2024-08-26T23:01:22.476492",
+    "updated_at": "2024-08-26T23:01:22.476492",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d58b2243-b49c-4394-abfc-3ac4ac391d64": {
+    "name": "California",
+    "id": "d58b2243-b49c-4394-abfc-3ac4ac391d64",
+    "created_at": "2024-08-26T23:01:22.476525",
+    "updated_at": "2024-08-26T23:01:22.476525",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6b18c127-987d-4d7d-a872-48684ee1d787": {
+    "name": "California",
+    "id": "6b18c127-987d-4d7d-a872-48684ee1d787",
+    "created_at": "2024-08-26T23:01:22.476558",
+    "updated_at": "2024-08-26T23:01:22.476558",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b3fcbbec-dd8f-43b7-938b-b8dbbd3af963": {
+    "name": "California",
+    "id": "b3fcbbec-dd8f-43b7-938b-b8dbbd3af963",
+    "created_at": "2024-08-26T23:01:22.476591",
+    "updated_at": "2024-08-26T23:01:22.476591",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d11dfa93-127d-4703-a924-3ec3c9450452": {
+    "name": "California",
+    "id": "d11dfa93-127d-4703-a924-3ec3c9450452",
+    "created_at": "2024-08-26T23:01:22.476624",
+    "updated_at": "2024-08-26T23:01:22.476624",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.48963e7d-d401-449b-b21f-51c2da45d92e": {
+    "name": "California",
+    "id": "48963e7d-d401-449b-b21f-51c2da45d92e",
+    "created_at": "2024-08-26T23:01:22.476657",
+    "updated_at": "2024-08-26T23:01:22.476657",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5296bf8c-a6c6-49ec-a17d-01e48705fa1b": {
+    "id": "5296bf8c-a6c6-49ec-a17d-01e48705fa1b",
+    "created_at": "2024-08-26T23:01:22.476689",
+    "updated_at": "2024-08-26T23:01:22.476689",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bcbbaff7-3a6c-478a-a8f5-c538a75e1767": {
+    "id": "bcbbaff7-3a6c-478a-a8f5-c538a75e1767",
+    "created_at": "2024-08-26T23:01:22.476721",
+    "updated_at": "2024-08-26T23:01:22.476721",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.788502d5-5a81-4bb9-91d2-203fc077d2e1": {
+    "id": "788502d5-5a81-4bb9-91d2-203fc077d2e1",
+    "created_at": "2024-08-26T23:01:22.476754",
+    "updated_at": "2024-08-26T23:01:22.476754",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.cda8b99f-e665-41b9-b7ef-384cffa7b2ea": {
+    "id": "cda8b99f-e665-41b9-b7ef-384cffa7b2ea",
+    "created_at": "2024-08-26T23:01:22.476790",
+    "updated_at": "2024-08-26T23:01:22.476790",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.4551454c-5f69-44f7-813a-e9599b596b12": {
+    "id": "4551454c-5f69-44f7-813a-e9599b596b12",
+    "created_at": "2024-08-26T23:01:22.476858",
+    "updated_at": "2024-08-26T23:01:22.476858",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.dcd97d8c-c049-417a-80e6-e31aad903033": {
+    "id": "dcd97d8c-c049-417a-80e6-e31aad903033",
+    "created_at": "2024-08-26T23:01:22.476892",
+    "updated_at": "2024-08-26T23:01:22.476892",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.50f70c5c-8dc6-4422-b2d4-7dc891d440ca": {
+    "id": "50f70c5c-8dc6-4422-b2d4-7dc891d440ca",
+    "created_at": "2024-08-26T23:01:22.476928",
+    "updated_at": "2024-08-26T23:01:22.476928",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.2c976b01-281d-406e-93db-3bc17b782291": {
+    "id": "2c976b01-281d-406e-93db-3bc17b782291",
+    "created_at": "2024-08-26T23:01:22.476961",
+    "updated_at": "2024-08-26T23:01:22.476961",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b086b05b-3eb3-4c24-852f-3bada532ad7f": {
+    "id": "b086b05b-3eb3-4c24-852f-3bada532ad7f",
+    "created_at": "2024-08-26T23:01:22.476994",
+    "updated_at": "2024-08-26T23:01:22.476994",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.fb0b7e5f-b194-40ee-ba10-f4a7d5c5c127": {
+    "id": "fb0b7e5f-b194-40ee-ba10-f4a7d5c5c127",
+    "created_at": "2024-08-26T23:01:22.477027",
+    "updated_at": "2024-08-26T23:01:22.477027",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0c6db4e7-5555-49dc-8283-7b55c3059d1c": {
+    "id": "0c6db4e7-5555-49dc-8283-7b55c3059d1c",
+    "created_at": "2024-08-26T23:01:22.477060",
+    "updated_at": "2024-08-26T23:01:22.477060",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0839f9a8-add4-48fd-b672-08051732b795": {
+    "id": "0839f9a8-add4-48fd-b672-08051732b795",
+    "created_at": "2024-08-26T23:01:22.477093",
+    "updated_at": "2024-08-26T23:01:22.477093",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.85df7932-18fd-4e0f-8f7f-3255c55917b7": {
+    "name": "California",
+    "id": "85df7932-18fd-4e0f-8f7f-3255c55917b7",
+    "created_at": "2024-08-26T23:01:22.477126",
+    "updated_at": "2024-08-26T23:01:22.477126",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.06f42359-a87d-4288-92d8-cd7d71c2ed2b": {
+    "name": "California",
+    "id": "06f42359-a87d-4288-92d8-cd7d71c2ed2b",
+    "created_at": "2024-08-26T23:01:22.477163",
+    "updated_at": "2024-08-26T23:01:22.477163",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.924d03fb-d61c-407f-a62d-4d0ec4f733c9": {
+    "name": "California",
+    "id": "924d03fb-d61c-407f-a62d-4d0ec4f733c9",
+    "created_at": "2024-08-26T23:01:22.477198",
+    "updated_at": "2024-08-26T23:01:22.477198",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8457ff60-4ab9-4509-80d3-bf794baf104f": {
+    "name": "California",
+    "id": "8457ff60-4ab9-4509-80d3-bf794baf104f",
+    "created_at": "2024-08-26T23:01:22.477232",
+    "updated_at": "2024-08-26T23:01:22.477232",
+    "__class__": "BaseModel"
+  },
+  "State.4b721a21-c7d3-49af-9b4d-4d9c5afce65c": {
+    "id": "4b721a21-c7d3-49af-9b4d-4d9c5afce65c",
+    "created_at": "2024-08-26T23:01:22.477265",
+    "updated_at": "2024-08-26T23:01:22.477265",
+    "__class__": "State"
+  },
+  "State.f997b56e-523e-4161-b043-79fab5b71901": {
+    "id": "f997b56e-523e-4161-b043-79fab5b71901",
+    "created_at": "2024-08-26T23:01:22.477299",
+    "updated_at": "2024-08-26T23:01:22.477299",
+    "__class__": "State"
+  },
+  "State.08a95f06-3a41-4eb5-ab42-17175867e14b": {
+    "id": "08a95f06-3a41-4eb5-ab42-17175867e14b",
+    "created_at": "2024-08-26T23:01:22.477333",
+    "updated_at": "2024-08-26T23:01:22.477333",
+    "__class__": "State"
+  },
+  "State.27f64d05-e2ae-42a2-a081-779b8ff45ccc": {
+    "id": "27f64d05-e2ae-42a2-a081-779b8ff45ccc",
+    "created_at": "2024-08-26T23:01:22.477366",
+    "updated_at": "2024-08-26T23:01:22.477366",
+    "__class__": "State"
+  },
+  "BaseModel.fd37e275-012b-4319-8eae-678ac715a429": {
+    "id": "fd37e275-012b-4319-8eae-678ac715a429",
+    "created_at": "2024-08-26T23:01:22.477399",
+    "updated_at": "2024-08-26T23:01:22.477399",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.60b3e861-731f-42f9-a5b6-1a95da07dec4": {
+    "id": "60b3e861-731f-42f9-a5b6-1a95da07dec4",
+    "created_at": "2024-08-26T23:01:22.477432",
+    "updated_at": "2024-08-26T23:01:22.477432",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.141d5070-be2d-4787-9fa9-a183814466af": {
+    "id": "141d5070-be2d-4787-9fa9-a183814466af",
+    "created_at": "2024-08-26T23:01:22.477464",
+    "updated_at": "2024-08-26T23:01:22.477464",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.bb98ec01-fec0-4d89-9bdf-5b35c981b07b": {
+    "id": "bb98ec01-fec0-4d89-9bdf-5b35c981b07b",
+    "created_at": "2024-08-26T23:01:22.477497",
+    "updated_at": "2024-08-26T23:01:22.477497",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8ca87993-72a6-4532-a169-be4fa85f3fb4": {
+    "id": "8ca87993-72a6-4532-a169-be4fa85f3fb4",
+    "created_at": "2024-08-26T23:01:22.477529",
+    "updated_at": "2024-08-26T23:01:22.477529",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.852d0b4c-b143-4e9d-a297-af8f6205fbe6": {
+    "id": "852d0b4c-b143-4e9d-a297-af8f6205fbe6",
+    "created_at": "2024-08-26T23:01:22.477562",
+    "updated_at": "2024-08-26T23:01:22.477562",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e86562ff-e949-4f54-be87-b40aa3f3f891": {
+    "id": "e86562ff-e949-4f54-be87-b40aa3f3f891",
+    "created_at": "2024-08-26T23:01:22.477604",
+    "updated_at": "2024-08-26T23:01:22.477604",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b7883f63-15d7-4a8d-aef0-f1ffbfff82c7": {
+    "id": "b7883f63-15d7-4a8d-aef0-f1ffbfff82c7",
+    "created_at": "2024-08-26T23:01:22.477639",
+    "updated_at": "2024-08-26T23:01:22.477639",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9af0b0be-e087-48a8-ada2-20e1f25eaf39": {
+    "id": "9af0b0be-e087-48a8-ada2-20e1f25eaf39",
+    "created_at": "2024-08-26T23:01:22.477672",
+    "updated_at": "2024-08-26T23:01:22.477672",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7d6dc5c9-7610-4173-896b-74ba5a62c115": {
+    "id": "7d6dc5c9-7610-4173-896b-74ba5a62c115",
+    "created_at": "2024-08-26T23:01:22.477705",
+    "updated_at": "2024-08-26T23:01:22.477705",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8ca8b126-9e61-4f59-b890-745ea62ebd36": {
+    "id": "8ca8b126-9e61-4f59-b890-745ea62ebd36",
+    "created_at": "2024-08-26T23:01:22.477741",
+    "updated_at": "2024-08-26T23:01:22.477741",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.095d5166-7df2-4706-ab91-206b59709167": {
+    "id": "095d5166-7df2-4706-ab91-206b59709167",
+    "created_at": "2024-08-26T23:01:22.477774",
+    "updated_at": "2024-08-26T23:01:22.477774",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.5a7a74e1-9690-4e4a-b80a-92152f33090b": {
+    "name": "California",
+    "id": "5a7a74e1-9690-4e4a-b80a-92152f33090b",
+    "created_at": "2024-08-26T23:01:22.477807",
+    "updated_at": "2024-08-26T23:01:22.477807",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.45495743-9770-4b54-89e8-12190f4a8370": {
+    "name": "California",
+    "id": "45495743-9770-4b54-89e8-12190f4a8370",
+    "created_at": "2024-08-26T23:01:22.477840",
+    "updated_at": "2024-08-26T23:01:22.477840",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.71d128bd-81a7-409e-8e49-f9b95f5e5a52": {
+    "name": "California",
+    "id": "71d128bd-81a7-409e-8e49-f9b95f5e5a52",
+    "created_at": "2024-08-26T23:01:22.477872",
+    "updated_at": "2024-08-26T23:01:22.477872",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b0f86520-9a43-4fd1-b361-c55df6bff4e3": {
+    "name": "California",
+    "id": "b0f86520-9a43-4fd1-b361-c55df6bff4e3",
+    "created_at": "2024-08-26T23:01:22.477905",
+    "updated_at": "2024-08-26T23:01:22.477905",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.27635bba-9e2d-4f07-bdd3-3d7959499a0b": {
+    "id": "27635bba-9e2d-4f07-bdd3-3d7959499a0b",
+    "created_at": "2024-08-26T23:01:22.477937",
+    "updated_at": "2024-08-26T23:01:22.477937",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9bf75001-5d5e-4ee4-83b6-acdfc73c92b6": {
+    "id": "9bf75001-5d5e-4ee4-83b6-acdfc73c92b6",
+    "created_at": "2024-08-26T23:01:22.477970",
+    "updated_at": "2024-08-26T23:01:22.477970",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.d80edd25-3d68-434b-8a94-01ed4776e813": {
+    "id": "d80edd25-3d68-434b-8a94-01ed4776e813",
+    "created_at": "2024-08-26T23:01:22.478002",
+    "updated_at": "2024-08-26T23:01:22.478002",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0d408938-cee7-48ea-bd41-9a75a9c90568": {
+    "id": "0d408938-cee7-48ea-bd41-9a75a9c90568",
+    "created_at": "2024-08-26T23:01:22.478034",
+    "updated_at": "2024-08-26T23:01:22.478034",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0002aeef-0705-4706-8164-f5b082878a81": {
+    "id": "0002aeef-0705-4706-8164-f5b082878a81",
+    "created_at": "2024-08-26T23:01:22.478067",
+    "updated_at": "2024-08-26T23:01:22.478067",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0d976597-003a-4e02-9fad-cc9152a24c9a": {
+    "id": "0d976597-003a-4e02-9fad-cc9152a24c9a",
+    "created_at": "2024-08-26T23:01:22.478099",
+    "updated_at": "2024-08-26T23:01:22.478099",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1eaefc6c-7b2e-4852-ae7b-008541d5af98": {
+    "name": "California",
+    "id": "1eaefc6c-7b2e-4852-ae7b-008541d5af98",
+    "created_at": "2024-08-26T23:01:22.478131",
+    "updated_at": "2024-08-26T23:01:22.478131",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.4151a541-1db8-4886-985c-6c8b536130e8": {
+    "name": "California",
+    "id": "4151a541-1db8-4886-985c-6c8b536130e8",
+    "created_at": "2024-08-26T23:01:22.478164",
+    "updated_at": "2024-08-26T23:01:22.478164",
+    "__class__": "BaseModel"
+  },
+  "State.4254a1d5-2331-4560-a081-6be097b0fb05": {
+    "id": "4254a1d5-2331-4560-a081-6be097b0fb05",
+    "created_at": "2024-08-26T23:01:22.478196",
+    "updated_at": "2024-08-26T23:01:22.478196",
+    "__class__": "State"
+  },
+  "State.405dd78d-c49c-434c-b7c6-e29495e560f0": {
+    "id": "405dd78d-c49c-434c-b7c6-e29495e560f0",
+    "created_at": "2024-08-26T23:01:22.478228",
+    "updated_at": "2024-08-26T23:01:22.478228",
+    "__class__": "State"
+  },
+  "State.a314e062-f6ae-44d9-a0dd-4cd01d95047d": {
+    "id": "a314e062-f6ae-44d9-a0dd-4cd01d95047d",
+    "created_at": "2024-08-26T23:01:22.478260",
+    "updated_at": "2024-08-26T23:01:22.478260",
+    "__class__": "State"
+  },
+  "State.ab7cb91b-3d3c-4692-815f-df12eeb84184": {
+    "id": "ab7cb91b-3d3c-4692-815f-df12eeb84184",
+    "created_at": "2024-08-26T23:01:22.478292",
+    "updated_at": "2024-08-26T23:01:22.478292",
+    "__class__": "State"
+  },
+  "State.cfa06057-d9a1-4bf8-a826-d96aca887aa0": {
+    "id": "cfa06057-d9a1-4bf8-a826-d96aca887aa0",
+    "created_at": "2024-08-26T23:01:22.478328",
+    "updated_at": "2024-08-26T23:01:22.478328",
+    "__class__": "State"
+  },
+  "State.f9c98573-bc52-4c94-8e68-12b86ef39cb0": {
+    "id": "f9c98573-bc52-4c94-8e68-12b86ef39cb0",
+    "created_at": "2024-08-26T23:01:22.478363",
+    "updated_at": "2024-08-26T23:01:22.478363",
+    "__class__": "State"
+  },
+  "BaseModel.53f5e6a1-5b5e-418f-8c67-26ffb40f145c": {
+    "id": "53f5e6a1-5b5e-418f-8c67-26ffb40f145c",
+    "created_at": "2024-08-26T23:01:22.478395",
+    "updated_at": "2024-08-26T23:01:22.478395",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3534414c-7ce1-4d73-9626-4bf5e5c0282b": {
+    "id": "3534414c-7ce1-4d73-9626-4bf5e5c0282b",
+    "created_at": "2024-08-26T23:01:22.478427",
+    "updated_at": "2024-08-26T23:01:22.478427",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.10948666-25d6-44ca-af23-a1577857c508": {
+    "id": "10948666-25d6-44ca-af23-a1577857c508",
+    "created_at": "2024-08-26T23:01:22.478459",
+    "updated_at": "2024-08-26T23:01:22.478459",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.3dfe00c8-7ade-4b19-982d-a4a5a1206970": {
+    "id": "3dfe00c8-7ade-4b19-982d-a4a5a1206970",
+    "created_at": "2024-08-26T23:01:22.478491",
+    "updated_at": "2024-08-26T23:01:22.478491",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.122926ba-5122-4259-a7ba-a91b031ba76d": {
+    "id": "122926ba-5122-4259-a7ba-a91b031ba76d",
+    "created_at": "2024-08-26T23:01:22.478523",
+    "updated_at": "2024-08-26T23:01:22.478523",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.c5f2babc-b23d-465c-818f-27d0313fcca7": {
+    "id": "c5f2babc-b23d-465c-818f-27d0313fcca7",
+    "created_at": "2024-08-26T23:01:22.478555",
+    "updated_at": "2024-08-26T23:01:22.478555",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.460b8783-9efb-4add-b459-20bc227cfc4a": {
+    "id": "460b8783-9efb-4add-b459-20bc227cfc4a",
+    "created_at": "2024-08-26T23:01:22.478587",
+    "updated_at": "2024-08-26T23:01:22.478587",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.220479d9-e1ec-4976-849b-9a65c420aad6": {
+    "id": "220479d9-e1ec-4976-849b-9a65c420aad6",
+    "created_at": "2024-08-26T23:01:22.478619",
+    "updated_at": "2024-08-26T23:01:22.478619",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.501357fb-ef89-4ec3-833c-7f0ec02d3186": {
+    "id": "501357fb-ef89-4ec3-833c-7f0ec02d3186",
+    "created_at": "2024-08-26T23:01:22.478655",
+    "updated_at": "2024-08-26T23:01:22.478655",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8a340b7b-4a0b-46a7-a67c-df8be4923df3": {
+    "id": "8a340b7b-4a0b-46a7-a67c-df8be4923df3",
+    "created_at": "2024-08-26T23:01:22.478687",
+    "updated_at": "2024-08-26T23:01:22.478687",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.411ac2e5-283d-4629-aa47-8afe772f2388": {
+    "id": "411ac2e5-283d-4629-aa47-8afe772f2388",
+    "created_at": "2024-08-26T23:01:22.478719",
+    "updated_at": "2024-08-26T23:01:22.478719",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.1a90274a-55c9-41a9-8c86-385052cdae5d": {
+    "id": "1a90274a-55c9-41a9-8c86-385052cdae5d",
+    "created_at": "2024-08-26T23:01:22.478751",
+    "updated_at": "2024-08-26T23:01:22.478751",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.97083542-c689-43bc-8d58-d897e0bacd88": {
+    "name": "California",
+    "id": "97083542-c689-43bc-8d58-d897e0bacd88",
+    "created_at": "2024-08-26T23:01:22.478784",
+    "updated_at": "2024-08-26T23:01:22.478784",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.fd9a8302-7a19-4412-80db-fee65768f082": {
+    "name": "California",
+    "id": "fd9a8302-7a19-4412-80db-fee65768f082",
+    "created_at": "2024-08-26T23:01:22.478817",
+    "updated_at": "2024-08-26T23:01:22.478817",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.68ea4316-c37a-4100-b1b8-fb677cc02733": {
+    "name": "California",
+    "id": "68ea4316-c37a-4100-b1b8-fb677cc02733",
+    "created_at": "2024-08-26T23:01:22.478850",
+    "updated_at": "2024-08-26T23:01:22.478850",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.639a53b2-364a-47ca-8f5a-83d569e1b4e1": {
+    "name": "California",
+    "id": "639a53b2-364a-47ca-8f5a-83d569e1b4e1",
+    "created_at": "2024-08-26T23:01:22.478895",
+    "updated_at": "2024-08-26T23:01:22.478895",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.e5e7e510-463c-44c1-b11b-cb5d993af8ec": {
+    "id": "e5e7e510-463c-44c1-b11b-cb5d993af8ec",
+    "created_at": "2024-08-26T23:01:22.478930",
+    "updated_at": "2024-08-26T23:01:22.478930",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ee2d61f4-2c5e-450a-a433-6bbc77e17b44": {
+    "id": "ee2d61f4-2c5e-450a-a433-6bbc77e17b44",
+    "created_at": "2024-08-26T23:01:22.478962",
+    "updated_at": "2024-08-26T23:01:22.478962",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.80d4c6d0-cb0f-4cfe-9deb-09cccb4f05f2": {
+    "id": "80d4c6d0-cb0f-4cfe-9deb-09cccb4f05f2",
+    "created_at": "2024-08-26T23:01:22.478995",
+    "updated_at": "2024-08-26T23:01:22.478995",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.b3ea75a3-17b5-4ff5-b1d0-24a3da790fb8": {
+    "id": "b3ea75a3-17b5-4ff5-b1d0-24a3da790fb8",
+    "created_at": "2024-08-26T23:01:22.479030",
+    "updated_at": "2024-08-26T23:01:22.479030",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.476f374d-1efd-4509-bbf0-dd9bb3845ac3": {
+    "id": "476f374d-1efd-4509-bbf0-dd9bb3845ac3",
+    "created_at": "2024-08-26T23:01:22.479063",
+    "updated_at": "2024-08-26T23:01:22.479063",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.f594bf89-0d5e-4267-ab79-e34981e7b83a": {
+    "id": "f594bf89-0d5e-4267-ab79-e34981e7b83a",
+    "created_at": "2024-08-26T23:01:22.479098",
+    "updated_at": "2024-08-26T23:01:22.479098",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.7fddea01-7bfc-4543-8d3a-f5123a8bdd64": {
+    "name": "California",
+    "id": "7fddea01-7bfc-4543-8d3a-f5123a8bdd64",
+    "created_at": "2024-08-26T23:01:22.479134",
+    "updated_at": "2024-08-26T23:01:22.479134",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.125ae54b-534f-4631-981a-46130c53754c": {
+    "name": "California",
+    "id": "125ae54b-534f-4631-981a-46130c53754c",
+    "created_at": "2024-08-26T23:01:22.479167",
+    "updated_at": "2024-08-26T23:01:22.479167",
+    "__class__": "BaseModel"
+  },
+  "State.8b2a4cbf-e320-41f6-b3ee-dfb1de5cce6c": {
+    "id": "8b2a4cbf-e320-41f6-b3ee-dfb1de5cce6c",
+    "created_at": "2024-08-26T23:01:22.479200",
+    "updated_at": "2024-08-26T23:01:22.479200",
+    "__class__": "State"
+  },
+  "State.bf9ba329-7e5c-45c6-8e4c-98cd4c2e77b8": {
+    "id": "bf9ba329-7e5c-45c6-8e4c-98cd4c2e77b8",
+    "created_at": "2024-08-26T23:01:22.479232",
+    "updated_at": "2024-08-26T23:01:22.479232",
+    "__class__": "State"
+  },
+  "BaseModel.590ba58b-b16c-46fc-ad6e-c61bfe6c088f": {
+    "id": "590ba58b-b16c-46fc-ad6e-c61bfe6c088f",
+    "created_at": "2024-08-26T23:01:22.479269",
+    "updated_at": "2024-08-26T23:01:22.479269",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.8c36de82-91dd-4032-8e25-9182fa222434": {
+    "id": "8c36de82-91dd-4032-8e25-9182fa222434",
+    "created_at": "2024-08-26T23:01:22.479301",
+    "updated_at": "2024-08-26T23:01:22.479301",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.61dfeef2-3e09-44eb-982c-8d365c4cdd7b": {
+    "id": "61dfeef2-3e09-44eb-982c-8d365c4cdd7b",
+    "created_at": "2024-08-26T23:01:22.479334",
+    "updated_at": "2024-08-26T23:01:22.479334",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.ce849230-1ae0-41ab-8cf0-0dc3aeaaa1d0": {
+    "id": "ce849230-1ae0-41ab-8cf0-0dc3aeaaa1d0",
+    "created_at": "2024-08-26T23:01:22.479366",
+    "updated_at": "2024-08-26T23:01:22.479366",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0fef2b78-f08d-41a8-ac9e-4510f8411bb6": {
+    "id": "0fef2b78-f08d-41a8-ac9e-4510f8411bb6",
+    "created_at": "2024-08-26T23:01:22.479399",
+    "updated_at": "2024-08-26T23:01:22.479399",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.00a0b380-7721-4c5b-9b8d-6da03e188e46": {
+    "id": "00a0b380-7721-4c5b-9b8d-6da03e188e46",
+    "created_at": "2024-08-26T23:01:22.479432",
+    "updated_at": "2024-08-26T23:01:22.479432",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.6e067087-9ecb-4be9-89b6-71c4e6854548": {
+    "name": "California",
+    "id": "6e067087-9ecb-4be9-89b6-71c4e6854548",
+    "created_at": "2024-08-26T23:01:22.479465",
+    "updated_at": "2024-08-26T23:01:22.479465",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.442ac54d-01dd-449d-af44-e55a123337bb": {
+    "name": "California",
+    "id": "442ac54d-01dd-449d-af44-e55a123337bb",
+    "created_at": "2024-08-26T23:01:22.479498",
+    "updated_at": "2024-08-26T23:01:22.479498",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.9e01a249-7a76-4ba1-af87-54a1ca57da96": {
+    "id": "9e01a249-7a76-4ba1-af87-54a1ca57da96",
+    "created_at": "2024-08-26T23:01:22.479530",
+    "updated_at": "2024-08-26T23:01:22.479530",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.0523c905-33c5-421b-867c-9d3f9a0ee920": {
+    "id": "0523c905-33c5-421b-867c-9d3f9a0ee920",
+    "created_at": "2024-08-26T23:01:22.479562",
+    "updated_at": "2024-08-26T23:01:22.479562",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.da5baaac-9567-41f9-94bb-574596836946": {
+    "id": "da5baaac-9567-41f9-94bb-574596836946",
+    "created_at": "2024-08-26T23:01:22.479594",
+    "updated_at": "2024-08-26T23:01:22.479594",
+    "__class__": "BaseModel"
+  },
+  "BaseModel.11f2e5b8-abe9-4593-9f7d-30dafd2d747f": {
+    "name": "California",
+    "id": "11f2e5b8-abe9-4593-9f7d-30dafd2d747f",
+    "created_at": "2024-08-26T23:01:22.479627",
+    "updated_at": "2024-08-26T23:01:22.479627",
+    "__class__": "BaseModel"
+  },
+  "State.a9c218f1-51f5-4301-bae8-9bfe4a58c594": {
+    "id": "a9c218f1-51f5-4301-bae8-9bfe4a58c594",
+    "created_at": "2024-08-26T23:01:22.479659",
+    "updated_at": "2024-08-26T23:01:22.479659",
+    "__class__": "State"
+  },
+  "State.0759d14c-4822-42e8-b98a-ee61bec4c8b6": {
+    "id": "0759d14c-4822-42e8-b98a-ee61bec4c8b6",
+    "created_at": "2024-08-26T23:01:22.479693",
+    "updated_at": "2024-08-26T23:01:22.479693",
+    "__class__": "State"
+  },
+  "State.6574a58f-feda-4b1f-8b59-7a1c225c5634": {
+    "id": "6574a58f-feda-4b1f-8b59-7a1c225c5634",
+    "created_at": "2024-08-26T23:01:22.479728",
+    "updated_at": "2024-08-26T23:01:22.479728",
+    "__class__": "State"
+  },
+  "State.c3f0ac65-690d-4eaa-9dcc-a9dd23bc7527": {
+    "name": "California",
+    "id": "c3f0ac65-690d-4eaa-9dcc-a9dd23bc7527",
+    "created_at": "2024-08-26T23:01:22.479761",
+    "updated_at": "2024-08-26T23:01:22.479761",
+    "__class__": "State"
+  },
+  "State.c1a34e0d-47bd-4d60-9c88-76ce59ff7083": {
+    "name": "Arizona",
+    "id": "c1a34e0d-47bd-4d60-9c88-76ce59ff7083",
+    "created_at": "2024-08-26T23:01:22.479793",
+    "updated_at": "2024-08-26T23:01:22.479793",
+    "__class__": "State"
+  },
+  "Place.8be24349-77bb-48d2-8472-33b659f3f8b9": {
+    "city_id": "0001",
+    "user_id": "0001",
+    "name": "My_little_house",
+    "number_rooms": 4,
+    "number_bathrooms": 2,
+    "max_guest": 10,
+    "price_by_night": 300,
+    "latitude": 37.773972,
+    "longitude": -122.431297,
+    "id": "8be24349-77bb-48d2-8472-33b659f3f8b9",
+    "created_at": "2024-08-26T23:01:22.479833",
+    "updated_at": "2024-08-26T23:01:22.479833",
+    "__class__": "Place"
+  },
+  "City.a7bd6571-4454-4e85-9579-31e5490e556b": {
+    "id": "a7bd6571-4454-4e85-9579-31e5490e556b",
+    "created_at": "2024-08-26T23:01:30.222035",
+    "updated_at": "2024-08-26T23:01:30.222035",
+    "__class__": "City"
+  },
+  "State.ce6e5de5-7c1f-4881-be79-b5564369f369": {
+    "name": "San_Francisco_is_super_cool",
+    "state_id": "23",
+    "id": "ce6e5de5-7c1f-4881-be79-b5564369f369",
+    "created_at": "2024-08-26T23:03:20.501885",
+    "updated_at": "2024-08-26T23:03:20.501885",
+    "__class__": "State"
+  }
+}
